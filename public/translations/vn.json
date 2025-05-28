@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Staking",
+        "about": "Giới Thiệu",
+        "how to buy": "Cách Mua",
+        "tokenomics": "Tokenomics",
+        "faq": "Câu hỏi thường gặp",
+        "whitepaper": "Sách Trắng",
+        "buynow": "Mua Ngay"
+    },
+    "hero": {
+        "title1": "ĐỒNG TIỀN",
+        "title2": "CRYPTO PRESALE TỐT NHẤT CỦA BITCOIN",
+        "description": "BTC Bull Token là lực lượng không thể ngăn cản thúc đẩy Bitcoin tiến tới trên 1 triệu đô! Mua $BTCBULL và nhận Bitcoin khi BTC trở thành tài sản số 1 thế giới!",
+        "timingtitle": {
+            "first": "Mua",
+            "second": "Token",
+            "third": "Trong đợt Presale ngay bây giờ!"
+        },
+        "day": "Ngày",
+        "hours": "Giờ",
+        "minute": "Phút",
+        "second": "Giây",
+        "raised": "USDT đã huy động: $6,311,467.59 / $7,332,195",
+        "purchased": "$BTCBULL bạn đã mua = 0",
+        "stakeable": "$BTCBULL có thể staking của bạn = 0",
+        "buywithcard": "Mua bằng Thẻ",
+        "buywithcrypto": "Mua bằng Crypto",
+        "nowallet": "Bạn chưa có ví?",
+        "poweredby": "Được hỗ trợ bởi",
+        "featuredin": {
+            "first": "Xuất hiện",
+            "second": "Trong"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "Đồng Meme Chính Thức",
+            "second": "Của Bitcoin"
+        },
+        "description": "Bitcoin là tài sản có hiệu suất tốt nhất trong lịch sử với tỷ lệ tăng trưởng trung bình hàng năm 230% – tăng hơn 200 triệu phần trăm kể từ khi ra mắt. Hãy cùng tham gia chuyến hành trình của cuộc đời bạn khi BTC Bull tiến tới BTC 250.000 đô và hơn thế nữa!",
+        "buybutton": "Mua Ngay",
+        "component": {
+            "first": {
+                "title": "Kiếm Bitcoin Airdrop!",
+                "description": "Giữ token $BTCBULL để nhận các đợt airdrop BTC khi giá tài sản lớn nhất tăng! Một đợt airdrop $BTCBULL khổng lồ cũng đang chờ những người giữ lâu nhất khi BTC đạt 250.000 đô, được tính theo số lượng token bạn nắm giữ và mua trong đợt Community Sale."
+            },
+            "second": {
+                "title": "Các cột mốc đốt token",
+                "description": "BTC Bull hướng đến việc thưởng cho những người giữ token khi giá Bitcoin tăng. Mỗi khi BTC tăng thêm 25K đô, chúng tôi sẽ đốt một phần token $BTCBULL hoặc airdrop BTC cho các holder trung thành. Chúng tôi đốt để vươn lên, và lại tiếp tục!"
+            },
+            "third": {
+                "title": "Staking để kiếm",
+                "description": "BTC Bull Token được thiết kế để thưởng cho người tin tưởng bằng nhiều cách. Được xây dựng trên Ethereum với staking APY cao trong hợp đồng thông minh an toàn, phần thưởng $BTCBULL sẽ được phát cho người staking trong suốt đợt Community Sale."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Lộ Trình",
+        "description": "El BTC Bull mang lại vinh quang và phần thưởng cho tất cả những người tin tưởng. Trên con đường tất yếu hướng đến giá BTC vượt 1 triệu đô, BTC Bull sẽ đốt nguồn cung token khi giá BTC tăng, và airdrop BTC cho các holder mạnh nhất! Ngoài ra còn có một đợt airdrop $BTCBULL khổng lồ khi BTC đạt 250.000 đô!",
+        "milestone": {
+            "title": "Cột mốc dự án",
+            "first": "Đợt Presale $BTCBULL!",
+            "second": "Đốt Token!",
+            "third": "Airdrop BTC!",
+            "forth": "Đốt Token!",
+            "fifth": "Airdrop BTC!",
+            "six": "Đốt Token!",
+            "seven": "Airdrop $BTCBULL!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Kiếm Bitcoin Miễn Phí",
+            "second": "Với Toàn Bộ Token!"
+        },
+        "description": "Cộng đồng BTC Bull có cơ hội tăng trưởng cực kỳ mạnh để nhận Bitcoin miễn phí! Chỉ cần giữ token $BTCBULL trong Best Wallet để nhận các đợt airdrop BTC trực tiếp! Bạn có thể tải Best Wallet ngay hôm nay hoặc nhập ví hiện có của bạn.",
+        "findoutbutton": "Tìm hiểu thêm",
+        "why": "Tại sao",
+        "description1": "Để thưởng cho cộng đồng BTC Bull bằng BTC, chúng tôi cần một đối tác ví có khả năng nâng cao. Best Wallet là ví crypto đa chuỗi tích hợp với đợt Community Sale của chúng tôi, cho phép airdrop BTC đến tất cả người mua trong đợt presale qua ứng dụng Best Wallet. Tải về ngay để nhận Bitcoin miễn phí!"
+    },
+    "presale": {
+        "title": {
+            "first": "Cách Mua",
+            "second": "Đợt Presale Crypto Tốt Nhất Của BTC",
+            "step": {
+                "step1": {
+                    "first": "Bước 1:",
+                    "description1": "Để tận dụng BTC Bull và chu kỳ tăng giá của Bitcoin, bạn cần một ví crypto DeFi như MetaMask, Trust hoặc",
+                    "walletLink": "Best Wallet",
+                    "description2": "Kết nối với widget presale ở đầu trang này."
+                },
+                "step2": {
+                    "first": "Bước 2:",
+                    "description1": "Chuẩn bị ETH hoặc USDT để thanh toán. Nạp hoặc mua crypto trực tiếp trong",
+                    "walletLink": "Best Wallet",
+                    "description2": "để tài trợ cho việc mua $BTCBULL của bạn. Đảm bảo còn đủ ETH để trả phí gas."
+                },
+                "step3": {
+                    "first": "Bước 3:",
+                    "description1": "Staking có sẵn trên Ethereum để tăng lượng $BTCBULL bạn sở hữu. Nếu bạn chọn staking, làm theo hướng dẫn trên widget. APY có thể thay đổi theo thời gian.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "Bước 4:",
+                    "description1": "Sau khi hoàn tất mua, số dư token $BTCBULL của bạn sẽ hiển thị trên widget mua. Token có thể được nhận khi đợt presale BTC Bull kết thúc hoặc hết thời gian.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomics",
+        "bullfund": {
+            "bull": "Bull",
+            "fund": "Quỹ"
+        },
+        "milestoneburnfund": {
+            "milestone": "Cột mốc đốt",
+            "burnfund": "Quỹ"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Staking",
+            "distribution": "Phân phối"
+        },
+        "exchange": {
+            "exchange": "Trao đổi",
+            "liquidify": "Thanh khoản"
+        },
+        "marketing": {
+            "pr": "PR và",
+            "marketing": "Marketing"
+        },
+        "totalsupply": "Tổng cung",
+        "tokenaddress": "Địa chỉ Token",
+        "copied": "Đã sao chép vào clipboard"
+    },
+    "bullish": {
+        "title": {
+            "first": "Tin tức",
+            "second": "Bitcoin Tăng Giá"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Token",
+            "second": "Câu hỏi thường gặp"
+        },
+        "faq1": {
+            "title": "BTC Bull Token là gì?",
+            "description": "BTC Bull Token là một meme coin được tạo ra để hỗ trợ cho sự tăng giá của Bitcoin lên đến $250,000 và hơn thế nữa. BTC Bull không ngại bất kỳ lực lượng nào cố gắng ngăn cản nó trở thành tài sản đầu tư tốt nhất thế giới. Hãy tham gia cùng chúng tôi trong đợt presale tiền điện tử này để trải nghiệm hành trình đáng nhớ khi vượt qua mọi đối thủ lịch sử, tập hợp hàng triệu người ủng hộ mới và nhắm đến vị trí tài sản số 1 thế giới vượt qua cả vàng!"
+        },
+        "faq2": {
+            "title": "Tại sao tôi nên mua presale crypto $BTCBULL?",
+            "description": "BTC Bull là cơ hội tối ưu cho chu kỳ tăng giá lớn tiếp theo của Bitcoin (BTC), có thể biến $BTCBULL thành presale crypto tốt nhất để mua trong năm 2025. $BTCBULL là một meme coin với cộng đồng nhiệt huyết, đại diện cho tinh thần tăng giá trong mỗi người. Điều này có nghĩa là, ngay cả BTC $150K cũng chưa đủ làm bạn hưng phấn. Ở đây, chúng tôi xây dựng cộng đồng BTC Bull, cùng tăng trưởng khi BTC tăng và cuối cùng hưởng thành quả từ loại tài sản tốt nhất thế giới."
+        },
+        "faq3": {
+            "title": "Tôi có thể thực sự nhận được airdrop Bitcoin miễn phí không?",
+            "description": "Con bò đực có khi nào vấp ngã? Có! Giữ token $BTCBULL trong Best Wallet và bạn sẽ nhận được airdrop BTC khi giá Bitcoin đạt $150,000 và $200,000. Airdrop BTC sẽ được gửi trực tiếp đến địa chỉ BTC trong Best Wallet của bạn, số lượng airdrop dựa trên số token $BTCBULL bạn đã mua trong Community Sale."
+        },
+        "faq4": {
+            "title": "Đây có phải là vòi Bitcoin miễn phí hoặc airdrop Bitcoin không?",
+            "description": "Không hoàn toàn đúng. Vòi Bitcoin miễn phí cho phép người dùng nhận một lượng BTC miễn phí theo các khoảng thời gian nhất định. BTC Bull cung cấp airdrop Bitcoin miễn phí cho những người giữ token $BTCBULL. Bạn chỉ cần giữ token trong Best Wallet hoặc nhập ví bạn đã dùng mua token vào Best Wallet để đủ điều kiện nhận."
+        },
+        "faq5": {
+            "title": "Mạng xã hội và hỗ trợ của BTC Bull là gì?",
+            "description": {
+                "text": "Theo dõi BTC Bull trên",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "và",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "để kết nối cùng cộng đồng Bitcoin Bulls và ăn mừng sự thăng tiến của BTC. Tại đây bạn cũng có thể cập nhật tất cả tin tức và thông báo dự án."
+            }
+        },
+        "faq6": {
+            "title": "Staking $BTCBULL hoạt động như thế nào?",
+            "description": {
+                "text": "BTC Bull được xây dựng trên Ethereum và được bảo mật bằng hợp đồng thông minh, staking được hỗ trợ bởi",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": ". Một phần token $BTCBULL được dành riêng cho phần thưởng staking. Khi gửi token $BTCBULL vào hợp đồng staking, bạn sẽ nhận APY thay đổi và token sẽ bị khóa cho đến khi kết thúc Community Sale. Token đã staking có thể rút sau 7 ngày kể từ khi claim mở."
+            }
+        },
+        "faq7": {
+            "title": "Khi nào tôi nhận được token $BTCBULL?",
+            "description": {
+                "title": "Mua $BTCBULL trong Community Sale đảm bảo phân bổ của bạn thông qua widget bảo mật",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": ". Token có thể được claim qua trang web chính thức khi Community Sale kết thúc. Nếu bạn mua qua",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "app di động, bạn sẽ nhận được quyền lợi tích hợp đầy đủ như claim token trực tiếp, xem số dư token và giá token theo thời gian thực trong suốt đợt bán, cũng như giao dịch DEX ngay khi ra mắt."
+            }
+        }
+    },
+    "staking": {
+        "title": "Stake BTCBULL để nhận thưởng thụ động",
+        "description": "Phần thưởng token BTCBULL sẽ được phân phối với tốc độ 399.54 token BTCBULL mỗi block ETH. Phần thưởng sẽ được mở khóa và có thể rút sau 7 ngày kể từ khi chức năng claim token được kích hoạt.",
+        "tokenstaked": {
+            "token": {
+                "first": "Token của bạn",
+                "second": "đã stake"
+            },
+            "available": {
+                "first": "Có sẵn để",
+                "second": "Stake"
+            },
+            "button": "Mua và Stake"
+        },
+        "poor": {
+            "yourpoor": "Phần trăm của bạn trong pool",
+            "totalpool": "Tổng pool staking",
+            "button": "Rút token"
+        },
+        "estimate": {
+            "title": {
+                "first": "Ước tính",
+                "second": "Phần thưởng"
+            },
+            "list": {
+                "first": "Tỷ lệ thay đổi theo thời gian",
+                "second": "Hàng tháng = Phần thưởng % / 12",
+                "third": "Hàng ngày = Phần thưởng % / 365"
+            }
+        },
+        "rewards": {
+            "title": "Phần thưởng hiện tại",
+            "toptext": "mỗi block eth"
+        },
+        "totlarewards": {
+            "title": "Tổng phần thưởng",
+            "button": "Claim phần thưởng"
+        },
+        "totalsupply": "Tổng cung"
+    },
+    "footer": {
+        "terms": "Điều khoản dịch vụ",
+        "cookies": "Cookie",
+        "privacy": "Chính sách bảo mật",
+        "description": "Miễn trừ trách nhiệm: BTC Bull Token là một meme coin mang tính đầu cơ liên quan đến giá trị xã hội và thị trường của Bitcoin. Thị trường tiền điện tử có rủi ro khiến bạn mất toàn bộ vốn đầu tư. Không có gì trên trang web này là lời khuyên tài chính. Hãy tự nghiên cứu và giữ token đến $1M!"
+    },
+    "modal": {
+        "info": {
+            "first": "Số dư đã mua là tổng số token bạn đã mua qua ví kết nối. Bao gồm cả token đã stake và chưa stake.",
+            "second": "Số dư có thể stake là số token bạn đã mua và vẫn có thể stake trong hợp đồng thông minh trong khi presale còn diễn ra.",
+            "third": "Phần thưởng staking BTCBULL được phân phối với tốc độ 399.54 token mỗi block ETH. Phần trăm của bạn trong pool sẽ quyết định phần thưởng nhận được.",
+            "fourth": "Chức năng claim chưa được mở."
+        },
+        "walletmodal": {
+            "title": "Kết nối ví",
+            "description": {
+                "start": "Nếu bạn đã có ví, chọn ví mong muốn bên dưới. Nếu chưa có ví, tải ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "để bắt đầu."
+            },
+            "button": "Tôi chưa có ví"
+        },
+        "needwallet": {
+            "title": "Cần ví?",
+            "description": {
+                "first": "Best Wallet là ứng dụng thân thiện với người mới",
+                "second": "giúp bạn dễ dàng mua token.",
+                "third": "Làm theo các bước dưới đây để bắt đầu."
+            },
+            "button": "Tải Best Wallet",
+            "step1": {
+                "first": "Quét mã QR để",
+                "second": "tải ứng dụng Best Wallet"
+            },
+            "step2": "Tạo tài khoản",
+            "step3": "Mua bằng thẻ hoặc crypto trong app"
+        },
+        "widthdraw": {
+            "title": "Rút token",
+            "description": "Token bạn đã stake",
+            "cancel": "Hủy",
+            "widthdraw": "Rút"
+        }
+    },
+    "trust": {
+        "title": "Được hàng triệu người tin tưởng từ năm 2021",
+        "rated": "Được đánh giá bởi",
+        "tokenscoretitle": "Điểm Tin Cậy Bull Token",
+        "liquidity": "Tính thanh khoản",
+        "scale": "Quy mô",
+        "cybersecurity": "An ninh mạng",
+        "apicoverage": "Phạm vi API",
+        "team": "Đội ngũ",
+        "incident": "Sự cố",
+        "ror": "Tỷ suất hoàn vốn"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Điểm số"
+        },
+        "description": "Điểm số TrustNet đánh giá các dự án tiền mã hóa dựa trên kết quả kiểm toán, bảo mật, xác minh KYC và sự hiện diện trên mạng xã hội. Điểm số này cung cấp cái nhìn nhanh chóng và minh bạch về mức độ tin cậy của dự án, giúp người dùng đưa ra quyết định đúng đắn trong không gian Web3.",
+        "lowlebel": "Kém",
+        "highlebel": "Xuất sắc"
+    }
+}

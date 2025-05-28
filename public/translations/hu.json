@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Stakelés",
+        "about": "Rólunk",
+        "how to buy": "Hogyan vásárolj",
+        "tokenomics": "Tokenomika",
+        "faq": "GYIK",
+        "whitepaper": "Fehér könyv",
+        "buynow": "Vásárolj most"
+    },
+    "hero": {
+        "title1": "BITCOIN LEGJOBB",
+        "title2": " KRIPTOPRESALE",
+        "description": "A BTC Bull Token az az ellenállhatatlan erő, amely a Bitcoint több mint 1 millió dollár felé hajtja! Vásárolj $BTCBULL-t és szerezz Bitcoint, ahogy a BTC a világ első számú eszközévé válik!",
+        "timingtitle": {
+            "first": "Vásárolj",
+            "second": "Tokent",
+            "third": "Presale-ben most!"
+        },
+        "day": "Nap",
+        "hours": "Óra",
+        "minute": "Perc",
+        "second": "Másodperc",
+        "raised": "Összegyűjtve USDT-ben: $6,311,467.59 / $7,332,195",
+        "purchased": "Vásárolt $BTCBULL-ed = 0",
+        "stakeable": "Stakelhető $BTCBULL-ed = 0",
+        "buywithcard": "Vásárlás bankkártyával",
+        "buywithcrypto": "Vásárlás kriptóval",
+        "nowallet": "Nincs tárcád?",
+        "poweredby": "Powered by",
+        "featuredin": {
+            "first": "Megjelent",
+            "second": "itt"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "A hivatalos",
+            "second": "Bitcoin Meme Coin"
+        },
+        "description": "A Bitcoin a történelem legjobban teljesítő eszköze, évi átlagos hozama 230% – több mint 200 millió százalékot emelkedett indulása óta. Csatlakozz most a BTC Bullhoz az utazásra, ahogy a BTC 250.000 dollár és azon túl tör!",
+        "buybutton": "Vásárolj most",
+        "component": {
+            "first": {
+                "title": "Szerezz Bitcoin Airdropokat!",
+                "description": "Tartsd a $BTCBULL tokeneket, és kapj BTC airdropot, ahogy az ár emelkedik! A legerősebb hodlerekre egy hatalmas $BTCBULL airdrop vár, amikor a BTC eléri a 250.000 dollárt – a tartásaid és presale vásárlásaid alapján súlyozva."
+            },
+            "second": {
+                "title": "Token Égetési Mérföldkövek",
+                "description": "A BTC Bull jutalmazni szeretné a hodlereket a BTC árának növekedésével. Minden alkalommal, amikor a BTC 25K-val emelkedik, égetünk tokeneket vagy BTC-t osztunk szét. Égünk és emelkedünk – újra és újra!"
+            },
+            "third": {
+                "title": "Stake-elés jutalomért",
+                "description": "A BTC Bull Token minden hívőt jutalmaz. Az Ethereum hálózaton működik, biztonságos okosszerződéssel és magas APY-s staking lehetőséggel. A $BTCBULL jutalmak a Community Sale időtartama alatt kerülnek kiosztásra."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Ütemterv",
+        "description": "A BTC Bull dicsőséget és jutalmakat hoz minden hívőnek. A BTC elkerülhetetlen 1 millió dollár feletti árfolyamához vezető úton a BTC Bull égeti a tokenkészletet, miközben a BTC ára nő, és BTC airdropokat oszt ki a legerősebb hodlereknek! Továbbá egy hatalmas $BTCBULL airdrop 250.000 dolláros BTC árnál!",
+        "milestone": {
+            "title": "Projektmérföldkövek",
+            "first": "$BTCBULL Presale!",
+            "second": "Token égetés!",
+            "third": "BTC Airdrop!",
+            "forth": "Token égetés!",
+            "fifth": "BTC Airdrop!",
+            "six": "Token égetés!",
+            "seven": "$BTCBULL Airdrop!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Szerezz ingyen Bitcoint",
+            "second": "a Teljes Tokennel!"
+        },
+        "description": "A BTC Bull közösség hatalmas lehetőséget kap ingyenes Bitcoin megszerzésére! Egyszerűen tartsd a $BTCBULL tokeneket a Best Walletben, hogy közvetlenül BTC airdropot kapj! Töltsd le a Best Walletet, vagy importáld meglévő tárcádat.",
+        "findoutbutton": "Tudj meg többet",
+        "why": "Miért",
+        "description1": "A BTC Bull közösség BTC-vel való jutalmazásához olyan tárcapartnerre volt szükségünk, amely fejlett képességekkel rendelkezik. A Best Wallet egy multichain kriptotárca, amely integrálva van a Community Sale-lel, lehetővé téve számunkra, hogy BTC-t airdroppoljunk a vásárlók multichain tárcáiba a mobilalkalmazáson keresztül. Töltsd le még ma, és kapj ingyenes BTC-t!"
+    },
+    "presale": {
+        "title": {
+            "first": "Hogyan vásárolj",
+            "second": "BTC Legjobb Kriptopresale-jéből",
+            "step": {
+                "step1": {
+                    "first": "1. lépés:",
+                    "description1": "A BTC Bull vásárlásához szükséged van egy DeFi kriptotárcára, például MetaMask, Trust vagy",
+                    "walletLink": "Best Wallet",
+                    "description2": "Csatlakoztasd azt az oldal tetején lévő presale widgethez."
+                },
+                "step2": {
+                    "first": "2. lépés:",
+                    "description1": "Rendelkezz ETH-val vagy USDT-vel. Vásárolhatsz kriptót közvetlenül a",
+                    "walletLink": "Best Wallet",
+                    "description2": "alkalmazásban a $BTCBULL vásárlásához. Győződj meg róla, hogy marad elég ETH a tranzakciós díjakhoz."
+                },
+                "step3": {
+                    "first": "3. lépés:",
+                    "description1": "Az Ethereumon elérhető a staking, mellyel növelheted $BTCBULL tartalékaid. Ha stake-elsz, kövesd a widget utasításait. Az APY dinamikus és idővel változhat.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "4. lépés:",
+                    "description1": "A vásárlás befejezése után a $BTCBULL tokenjeid megjelennek a widgetben. Ezeket akkor tudod igényelni, ha a presale véget ér vagy lejár az ideje.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomika",
+        "bullfund": {
+            "bull": "Bika",
+            "fund": "Alap"
+        },
+        "milestoneburnfund": {
+            "milestone": "Mérföldkő Égetés",
+            "burnfund": "Alap"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Stakelés",
+            "distribution": "Elosztás"
+        },
+        "exchange": {
+            "exchange": "Tőzsde",
+            "liquidify": "Likvidálás"
+        },
+        "marketing": {
+            "pr": "PR és",
+            "marketing": "Marketing"
+        },
+        "totalsupply": "Teljes Kínálat",
+        "tokenaddress": "Token Cím",
+        "copied": "Vágólapra másolva"
+    },
+    "bullish": {
+        "title": {
+            "first": "Bikás",
+            "second": "Bitcoin Hírek"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Token",
+            "second": "GYIK"
+        },
+        "faq1": {
+            "title": "Mi az a BTC Bull Token?",
+            "description": "A BTC Bull Token egy mémérme, amely a Bitcoin 250 000 dollár fölé emelkedését támogatja. A BTC Bika nem ijed meg semmilyen erőtől, amely megpróbálja megállítani felemelkedését, hogy a világ legjobb befektetési eszközévé váljon. Csatlakozz ehhez a jelentős kripto előértékesítéshez, és legyél részese a történelmi felemelkedésnek!"
+        },
+        "faq2": {
+            "title": "Miért érdemes megvásárolni a $BTCBULL előértékesítést?",
+            "description": "A BTC Bull a következő hatalmas bika ciklus legjobb lehetősége, amely a Bitcoinra (BTC) vár. A $BTCBULL egy szenvedélyes közösséggel rendelkező mémérme, amely mindenki bikáját felébreszti. Itt a közösség együtt nő, ahogy a BTC ára emelkedik, és végül learathatjuk a világ legjobb eszközének gyümölcseit."
+        },
+        "faq3": {
+            "title": "Tényleg kaphatok ingyenes Bitcoin airdropot?",
+            "description": "Kérdezz meg egy bikát, hogy tétovázik-e? Nem! Tartsd a $BTCBULL tokeneket a Best Walletben, és BTC airdropot kapsz, ha a Bitcoin ára eléri a 150 000 vagy 200 000 dollárt. Airdropjaid a Best Wallet BTC címére lesznek küldve, a vásárolt tokenek mennyisége alapján súlyozva."
+        },
+        "faq4": {
+            "title": "Ez egy ingyenes Bitcoin csap vagy airdrop?",
+            "description": "Nem egészen. Az ingyenes Bitcoin csapok bizonyos időközönként adnak BTC-t. A BTC Bull ingyenes Bitcoin airdropokat kínál azoknak, akik $BTCBULL tokent tartanak a Best Walletben vagy importálják meglévő pénztárcájukat oda."
+        },
+        "faq5": {
+            "title": "Hol találom meg a BTC Bull közösséget és támogatást?",
+            "description": {
+                "text": "Kövess minket a",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "és a",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "platformokon, hogy csatlakozz a többi Bitcoin Bikához, és mindig naprakész legyél a hírekkel és bejelentésekkel."
+            }
+        },
+        "faq6": {
+            "title": "Hogyan működik a $BTCBULL stakelés?",
+            "description": {
+                "text": "A BTC Bull az Ethereum hálózatra épül, és okosszerződésekkel van biztosítva. A stakelés a",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": "technológiával működik. Külön elosztás van fenntartva stakelési jutalmakra. A stakelés során a tokenek zárolva lesznek a közösségi értékesítés végéig. A stakelt tokenek 7 nappal a claim nyitása után vonhatók vissza."
+            }
+        },
+        "faq7": {
+            "title": "Mikor kapom meg a $BTCBULL tokenjeimet?",
+            "description": {
+                "title": "A Community Sale során történő vásárlás garantálja az elosztást a biztonságos",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "widgeten keresztül. A tokeneket a hivatalos weboldalon lehet majd igényelni a sale végén. Ha a",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "mobilalkalmazáson keresztül vásárolsz, akkor közvetlen igénylést, token egyenleg hozzáférést és élő árfolyamokat élvezhetsz, valamint azonnali DEX kereskedést a token bevezetése után."
+            }
+        }
+    },
+    "staking": {
+        "title": "Stakelj BTCBULL-t Passzív Jutalmakért",
+        "description": "A BTCBULL token jutalmak elosztása 399.54 BTCBULL token/ETH blokk sebességgel történik. Ezek a jutalmak a token claim megnyitása után 7 nappal válnak elérhetővé kifizetésre.",
+        "tokenstaked": {
+            "token": {
+                "first": "Tokenjeid",
+                "second": "Stakelés alatt"
+            },
+            "available": {
+                "first": "Elérhető",
+                "second": "Stakelésre"
+            },
+            "button": "Vásárlás és Stakelés"
+        },
+        "poor": {
+            "yourpoor": "Részesedésed %",
+            "totalpool": "Teljes Stakelési Pool",
+            "button": "Tokenek kivonása"
+        },
+        "estimate": {
+            "title": {
+                "first": "Becsült",
+                "second": "Jutalmak"
+            },
+            "list": {
+                "first": "A ráták dinamikusak",
+                "second": "Havi = Jutalom % / 12",
+                "third": "Napi = Jutalom % / 365"
+            }
+        },
+        "rewards": {
+            "title": "Aktuális Jutalmak",
+            "toptext": "ETH blokkonként"
+        },
+        "totlarewards": {
+            "title": "Teljes Jutalom",
+            "button": "Jutalom igénylése"
+        },
+        "totalsupply": "Teljes Kínálat"
+    },
+    "footer": {
+        "terms": "Felhasználási feltételek",
+        "cookies": "Sütik",
+        "privacy": "Adatvédelmi Irányelvek",
+        "description": "Jogi nyilatkozat: A BTC Bull Token egy spekulatív mémérme, amely a Bitcoin társadalmi és piaci értékéhez kapcsolódik. A kriptopiac kockázatos, és elveszítheted a teljes befektetett tőkédet. Ez az oldal nem pénzügyi tanácsadás. Végezd el a saját kutatásod (DYOR), és HODL-olj $1M-ig!"
+    },
+    "modal": {
+        "info": {
+            "first": "A megvásárolt egyenleged az összes token, amit a csatlakoztatott pénztárcával vásároltál, beleértve a stakelt és nem stakelt tokeneket is.",
+            "second": "A stakelhető egyenleged azok a tokenek, amik még stakelhetők az okosszerződésben a presale időtartama alatt.",
+            "third": "A BTCBULL staking jutalmak 399.54 BTCBULL/ETH blokk sebességgel kerülnek kiosztásra. A poolban elfoglalt százalékod határozza meg, mennyi jutalmat kapsz ebből.",
+            "fourth": "A claim még nem él"
+        },
+        "walletmodal": {
+            "title": "Pénztárca Csatlakoztatása",
+            "description": {
+                "start": "Ha már rendelkezel pénztárcával, válaszd ki a megfelelőt az alábbi lehetőségek közül. Ha nincs pénztárcád, töltsd le a",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "alkalmazást a kezdéshez."
+            },
+            "button": "Nincs pénztárcám"
+        },
+        "needwallet": {
+            "title": "Szükséged van egy pénztárcára?",
+            "description": {
+                "first": "A Best Wallet egy kezdőbarát alkalmazás,",
+                "second": "amely egyszerűvé teszi tokenünk megvásárlását.",
+                "third": "Kövessd az alábbi lépéseket a kezdéshez."
+            },
+            "button": "Best Wallet letöltése",
+            "step1": {
+                "first": "Olvasd be a QR-kódot a",
+                "second": "Best Wallet letöltéséhez"
+            },
+            "step2": "Fiók létrehozása",
+            "step3": "Vásárolj kártyával vagy kriptóval az alkalmazásban"
+        },
+        "widthdraw": {
+            "title": "Tokenek kivonása",
+            "description": "Tokenjeid Stakelés alatt",
+            "cancel": "Mégse",
+            "widthdraw": "Kivonás"
+        }
+    },
+    "trust": {
+        "title": "Milliók bíznak benne 2021 óta",
+        "rated": "Értékelte",
+        "tokenscoretitle": "Bull Token megbízhatósági pontszám",
+        "liquidity": "Likviditás",
+        "scale": "Skála",
+        "cybersecurity": "Kiberbiztonság",
+        "apicoverage": "API lefedettség",
+        "team": "Csapat",
+        "incident": "Eset",
+        "ror": "Hozam"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Pontszám"
+        },
+        "description": "A TrustNet pontszám audit eredmények, biztonság, KYC ellenőrzés és közösségi média jelenlét alapján értékeli a kriptoprojekteket. Ez a pontszám gyors és átlátható képet ad egy projekt hitelességéről, segítve a felhasználókat abban, hogy megalapozott döntéseket hozzanak a Web3 térben.",
+        "lowlebel": "Gyenge",
+        "highlebel": "Kiváló"
+    }
+}

@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Staking",
+        "about": "Over",
+        "how to buy": "Hoe te kopen",
+        "tokenomics": "Tokenomics",
+        "faq": "Veelgestelde Vragen",
+        "whitepaper": "Whitepaper",
+        "buynow": "Koop Nu"
+    },
+    "hero": {
+        "title1": "BITCOINS BESTE",
+        "title2": " CRYPTO PRESALE",
+        "description": "BTC Bull Token is de onstuitbare kracht die Bitcoin richting $1M+ duwt! Koop $BTCBULL en verdien Bitcoin terwijl BTC de nummer 1 activa ter wereld wordt!",
+        "timingtitle": {
+            "first": "Koop",
+            "second": "Token",
+            "third": "In Presale Nu!"
+        },
+        "day": "Dagen",
+        "hours": "Uren",
+        "minute": "Minuten",
+        "second": "Seconden",
+        "raised": "USDT Opgehaald: $6.311.467,59 / $7.332.195",
+        "purchased": "Je gekochte $BTCBULL = 0",
+        "stakeable": "Je inzetbare $BTCBULL = 0",
+        "buywithcard": "Koop Met Kaart",
+        "buywithcrypto": "Koop Met Crypto",
+        "nowallet": "Heb je geen wallet?",
+        "poweredby": "Aangedreven door",
+        "featuredin": {
+            "first": "Uitgelicht",
+            "second": "In"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "De Officiële",
+            "second": "Bitcoin Meme Coin"
+        },
+        "description": "Bitcoin is het best presterende activum in de geschiedenis met een AAR van 230% – meer dan 200 miljoen procent gestegen sinds de oprichting. Spring nu aan boord voor de rit van je leven terwijl de BTC Bull richting $250K BTC en verder raast!",
+        "buybutton": "Koop Nu",
+        "component": {
+            "first": {
+                "title": "Verdien Bitcoin Airdrops!",
+                "description": "Houd $BTCBULL-tokens vast om BTC-airdrops te ontvangen terwijl de prijs van het grootste activum stijgt! Een enorme $BTCBULL-airdrop wacht ook op de sterkste hodlers wanneer BTC $250.000 bereikt, gewogen op basis van je huidige holdings en aankoopbedrag in de Community Sale."
+            },
+            "second": {
+                "title": "Token Burn Mijlpalen",
+                "description": "BTC Bull wil hodlers belonen terwijl de prijs van Bitcoin stijgt. Elke keer dat BTC met $25K stijgt, branden we een percentage van de $BTCBULL-tokenvoorraad of airdroppen we BTC naar onze loyale houders. We branden en stijgen, en herhalen!"
+            },
+            "third": {
+                "title": "Stake om te verdienen",
+                "description": "BTC Bull Token is ontworpen om gelovers op elke manier te belonen. Gebouwd op Ethereum met hoge APY-staking in een veilig smart contract, worden $BTCBULL-beloningen uitgekeerd aan stakers gedurende de Community Sale."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Roadmap",
+        "description": "De BTC Bull brengt glorie en beloningen aan alle gelovers. Op het onvermijdelijke pad naar een BTC-prijs van meer dan 1 miljoen dollar, zal BTC Bull het tokenaanbod verbranden terwijl de BTC-prijs stijgt, en BTC airdroppen naar de sterkste hodlers! Ook een enorme $BTCBULL airdrop bij 250.000 BTC!",
+        "milestone": {
+            "title": "Projectmijlpalen",
+            "first": "$BTCBULL Presale!",
+            "second": "Tokenverbranding!",
+            "third": "BTC Airdrop!",
+            "forth": "Tokenverbranding!",
+            "fifth": "BTC Airdrop!",
+            "six": "Tokenverbranding!",
+            "seven": "$BTCBULL Airdrop!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Verdien Gratis Bitcoin",
+            "second": "Met De Volledige Token!"
+        },
+        "description": "De BTC Bull-community heeft een mega bullish kans om gratis Bitcoin te verdienen! Houd gewoon je $BTCBULL-tokens in Best Wallet om directe BTC-airdrops te ontvangen! Je kunt Best Wallet vandaag nog downloaden of je bestaande wallet importeren.",
+        "findoutbutton": "Ontdek Meer",
+        "why": "Waarom",
+        "description1": "Om de BTC Bull-community in BTC te belonen, hadden we een walletpartner nodig met geavanceerde mogelijkheden. Best Wallet is een multichain-cryptowallet die is geïntegreerd met onze Community Sale, waardoor we BTC kunnen airdroppen naar alle kopers van de crypto-presale via de Best Wallet mobiele app. Download hem vandaag nog om gratis Bitcoin-airdrops te ontvangen!"
+    },
+    "presale": {
+        "title": {
+            "first": "Hoe te kopen",
+            "second": "BTC'S Beste Crypto Presale",
+            "step": {
+                "step1": {
+                    "first": "Stap 1:",
+                    "description1": "Om te profiteren van BTC Bull en de Bitcoin bull run, heb je een DeFi-cryptowallet nodig zoals MetaMask, Trust of",
+                    "walletLink": "Best Wallet",
+                    "description2": "Verbind deze met de presale-widget bovenaan deze pagina."
+                },
+                "step2": {
+                    "first": "Stap 2:",
+                    "description1": "Heb ETH of USDT om verder te gaan. Stort of koop crypto direct in",
+                    "walletLink": "Best Wallet",
+                    "description2": "om je $BTCBULL-aankoop te financieren. Zorg ervoor dat je genoeg ETH overhoudt om de gaskosten te betalen."
+                },
+                "step3": {
+                    "first": "Stap 3:",
+                    "description1": "Staking is beschikbaar op Ethereum om je $BTCBULL-bezit te vergroten. Als je besluit te staken, volg dan de aanwijzingen in de widget. De APY is dynamisch en kan in de loop van de tijd veranderen.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "Stap 4:",
+                    "description1": "Na het voltooien van je aankoop wordt je $BTCBULL-tokenbalans weergegeven op de koopwidget. Deze tokens kunnen worden opgeëist zodra de BTC Bull-presale is uitverkocht of verlopen.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomics",
+        "bullfund": {
+            "bull": "Bull",
+            "fund": "Fonds"
+        },
+        "milestoneburnfund": {
+            "milestone": "Mijlpaalverbranding",
+            "burnfund": "Fonds"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Staking",
+            "distribution": "Distributie"
+        },
+        "exchange": {
+            "exchange": "Beurs",
+            "liquidify": "Liquiditeit"
+        },
+        "marketing": {
+            "pr": "PR en",
+            "marketing": "Marketing"
+        },
+        "totalsupply": "Totale Voorraad",
+        "tokenaddress": "Tokenadres",
+        "copied": "Gekopieerd naar klembord"
+    },
+    "bullish": {
+        "title": {
+            "first": "Bullish",
+            "second": "Bitcoin Nieuws"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Token",
+            "second": "Veelgestelde Vragen"
+        },
+        "faq1": {
+            "title": "Wat is BTC Bull Token?",
+            "description": "BTC Bull Token is een meme-coin gebouwd om de opmars van Bitcoin naar $250.000 en verder te ondersteunen. De BTC Bull laat zich niet intimideren door krachten die zijn opmars naar de beste beleggingsactiva ter wereld willen tegenhouden. Doe mee aan deze gedenkwaardige cryptopresale voor de rit van je leven terwijl we alle tegenstand achter ons laten, miljoenen nieuwe supporters verzamelen en mikken op de nummer 1 positie boven goud!"
+        },
+        "faq2": {
+            "title": "Waarom zou ik de $BTCBULL crypto presale kopen?",
+            "description": "BTC Bull is de ultieme gok voor de volgende grote bullmarkt voor Bitcoin (BTC), waardoor $BTCBULL waarschijnlijk de beste cryptopresale is om in 2025 te kopen. $BTCBULL is een meme-coin met een gepassioneerde community die de innerlijke bull in ons allen aanwakkert. Zelfs $150K BTC is FUD – je bent nog niet bullish genoeg. Hier laten we de BTC Bull community groeien, stijgen we mee met BTC, en oogsten we eindelijk de vruchten van de beste activaklasse ter wereld."
+        },
+        "faq3": {
+            "title": "Kan ik echt gratis Bitcoin airdrops verdienen?",
+            "description": "Stottert een stier ooit? Nee! Houd $BTCBULL-tokens in Best Wallet en ontvang BTC-airdrops wanneer de prijs van Bitcoin $150.000 en $200.000 bereikt. Je BTC-airdrops worden verstuurd naar je BTC-adres in Best Wallet, en het bedrag is gewogen op basis van hoeveel $BTCBULL-tokens je hebt gekocht tijdens de Community Sale."
+        },
+        "faq4": {
+            "title": "Is dit een gratis Bitcoin kraan of Bitcoin airdrop?",
+            "description": "Niet helemaal. Een gratis Bitcoin kraan stelt mensen in staat om periodiek wat gratis BTC te krijgen. BTC Bull biedt gratis Bitcoin airdrops aan houders van het $BTCBULL-token. Je hoeft je tokens alleen maar in Best Wallet te bewaren of de wallet waarmee je $BTCBULL hebt gekocht te importeren in Best Wallet om in aanmerking te komen."
+        },
+        "faq5": {
+            "title": "Wat is de sociale media en ondersteuning van BTC Bull?",
+            "description": {
+                "text": "Volg BTC Bull op",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "en",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "om samen met andere Bitcoin Bulls de opmars van BTC te vieren. Hier blijf je ook op de hoogte van al het nieuws en aankondigingen over het project."
+            }
+        },
+        "faq6": {
+            "title": "Hoe werkt het staken van $BTCBULL?",
+            "description": {
+                "text": "BTC Bull is gebouwd op Ethereum en beveiligd door smart contracts, met staking mogelijk gemaakt door",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": "technologie. Een deel van de $BTCBULL-tokens is gereserveerd voor staking-beloningen. Door je $BTCBULL-tokens naar het stakingcontract te sturen, kun je een variabele APY verdienen. Je tokens worden vastgezet tot het einde van de Community Sale. Na livegang van de claimfunctie kunnen gestakete tokens 7 dagen later worden opgenomen."
+            }
+        },
+        "faq7": {
+            "title": "Wanneer ontvang ik mijn $BTCBULL-tokens?",
+            "description": {
+                "title": "Door $BTCBULL te kopen tijdens de Community Sale ben je verzekerd van je toewijzing via de beveiligde",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "widget. Deze tokens kunnen worden opgeëist via de officiële website zodra de Community Sale is afgerond. Als je $BTCBULL hebt gekocht via de",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "mobiele app, profiteer je van volledige integratie zoals directe tokenclaim, toegang tot je tokenbalans en live prijzen tijdens de verkoop, en directe DEX-handel bij lancering."
+            }
+        }
+    },
+    "staking": {
+        "title": "Stake BTCBULL Voor Passieve Beloningen",
+        "description": "De distributie van BTCBULL-tokenbeloningen vindt plaats tegen een tempo van 399,54 BTCBULL-tokens per ETH-blok. Deze beloningen worden beschikbaar om op te nemen 7 dagen nadat de claimfunctie live is gegaan.",
+        "tokenstaked": {
+            "token": {
+                "first": "Je Tokens",
+                "second": "Gestaked"
+            },
+            "available": {
+                "first": "Beschikbaar",
+                "second": "Om Te Staken"
+            },
+            "button": "Koop En Stake"
+        },
+        "poor": {
+            "yourpoor": "Jouw % van de pool",
+            "totalpool": "Totale Stakingpool",
+            "button": "Tokens Unstaken"
+        },
+        "estimate": {
+            "title": {
+                "first": "Geschatte",
+                "second": "Beloningen"
+            },
+            "list": {
+                "first": "Tarief is dynamisch",
+                "second": "Maandelijks = Beloningen % / 12",
+                "third": "Dagelijks = Beloningen % / 365"
+            }
+        },
+        "rewards": {
+            "title": "Huidige Beloningen",
+            "toptext": "per eth-blok"
+        },
+        "totlarewards": {
+            "title": "Totale Beloningen",
+            "button": "Claim Beloningen"
+        },
+        "totalsupply": "Totale Voorraad"
+    },
+    "footer": {
+        "terms": "Servicevoorwaarden",
+        "cookies": "Cookies",
+        "privacy": "Privacybeleid",
+        "description": "Disclaimer: BTC Bull Token is een speculatief meme-coin-activum gekoppeld aan de sociale en marktwaarde van Bitcoin. De cryptomarkt brengt het risico met zich mee dat je je volledige kapitaal kunt verliezen. Niets op deze website is financieel advies. Doe je eigen onderzoek (DYOR) en HODL tot $1M!"
+    },
+    "modal": {
+        "info": {
+            "first": "Je gekochte balans is het totale aantal tokens dat je hebt gekocht met de verbonden wallet. Dit omvat alle gestakete en niet-gestakete tokens.",
+            "second": "Je inzetbare balans is het aantal tokens dat je nog kunt staken in ons smart contract voor dynamische APY zolang de presale loopt.",
+            "third": "BTCBULL staking-beloningen worden verdeeld met een snelheid van 399,54 BTCBULL per ETH-blok. Jouw percentage van de pool bepaalt welk deel van de 399,54 BTCBULL-tokens je ontvangt.",
+            "fourth": "Claim is nog niet live"
+        },
+        "walletmodal": {
+            "title": "Verbind Wallet",
+            "description": {
+                "start": "Als je al een wallet hebt, kies dan hieronder je gewenste wallet. Als je nog geen wallet hebt, download dan ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": " om te beginnen."
+            },
+            "button": "Ik heb geen wallet"
+        },
+        "needwallet": {
+            "title": "Wallet Nodig?",
+            "description": {
+                "first": "Best Wallet is een gebruiksvriendelijke app",
+                "second": "die het gemakkelijk maakt om onze token te kopen.",
+                "third": "Volg de onderstaande stappen om aan de slag te gaan."
+            },
+            "button": "Download Best Wallet",
+            "step1": {
+                "first": "Scan de QR-code om",
+                "second": "Best Wallet App te downloaden"
+            },
+            "step2": "Maak een account aan",
+            "step3": "Koop in-app met kaart of crypto"
+        },
+        "widthdraw": {
+            "title": "Tokens Unstaken",
+            "description": "Je Gestakete Tokens",
+            "cancel": "Annuleren",
+            "widthdraw": "Opnemen"
+        }
+    },
+    "trust": {
+        "title": "Vertrouwd door miljoenen sinds 2021",
+        "rated": "Beoordeeld door",
+        "tokenscoretitle": "Bull Token Vertrouwensscore",
+        "liquidity": "Liquiditeit",
+        "scale": "Schaal",
+        "cybersecurity": "Cyberbeveiliging",
+        "apicoverage": "API-dekking",
+        "team": "Team",
+        "incident": "Incident",
+        "ror": "Risico-rendement"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Score"
+        },
+        "description": "De TrustNet-score beoordeelt cryptoprojecten op basis van auditresultaten, beveiliging, KYC-verificatie en aanwezigheid op sociale media. Deze score biedt een snelle en transparante kijk op de geloofwaardigheid van een project, wat gebruikers helpt weloverwogen beslissingen te nemen in de Web3-ruimte.",
+        "lowlebel": "Slecht",
+        "highlebel": "Uitstekend"
+    }
+}

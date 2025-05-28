@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Stakovanie",
+        "about": "O nás",
+        "how to buy": "Ako kúpiť",
+        "tokenomics": "Tokenomika",
+        "faq": "FAQs",
+        "whitepaper": "Whitepaper",
+        "buynow": "Kúpiť teraz"
+    },
+    "hero": {
+        "title1": "NAJLEPŠIA",
+        "title2": "KRYPTO PREDAJ BTC",
+        "description": "BTC Bull Token je nezastaviteľná sila, ktorá poháňa Bitcoin k $1M+! Kúp si $BTCBULL a zarábaj Bitcoin, ako sa BTC stáva číslom 1 medzi aktívami!",
+        "timingtitle": {
+            "first": "Kúp",
+            "second": "Token",
+            "third": "V predpredaji teraz!"
+        },
+        "day": "Dni",
+        "hours": "Hodiny",
+        "minute": "Minúty",
+        "second": "Sekundy",
+        "raised": "USDT vyzbierané: $6,311,467.59 / $7,332,195",
+        "purchased": "Zakúpené $BTCBULL = 0",
+        "stakeable": "Stakovateľné $BTCBULL = 0",
+        "buywithcard": "Kúpiť kartou",
+        "buywithcrypto": "Kúpiť kryptomenou",
+        "nowallet": "Nemáte peňaženku?",
+        "poweredby": "Powered by",
+        "featuredin": {
+            "first": "Uvádza",
+            "second": "sa v"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "Oficiálny",
+            "second": "Bitcoin Meme Coin"
+        },
+        "description": "Bitcoin je najvýkonnejšie aktívum v histórii s AAR 230 % – narástol o viac ako 200 miliónov percent od svojho vzniku. Pripoj sa teraz k tejto jazde, keď sa BTC Bull rúti k $250K a ďalej!",
+        "buybutton": "Kúpiť teraz",
+        "component": {
+            "first": {
+                "title": "Zarábaj Bitcoin Airdropy!",
+                "description": "Drž $BTCBULL tokeny a získaj BTC airdropy ako cena najväčšieho aktíva stúpa! Obrovský airdrop $BTCBULL čaká na najvernejších držiteľov, keď BTC dosiahne $250,000, podľa tvojho držaného množstva a nákupov v komunitnom predaji."
+            },
+            "second": {
+                "title": "Token Burn míľniky",
+                "description": "BTC Bull odmeňuje držiteľov, keď cena Bitcoinu stúpa. Každýkrát, keď BTC stúpne o $25K, spálime časť zásob $BTCBULL tokenov alebo rozdáme BTC našim verným držiteľom. Pálime, rastieme, opakujeme!"
+            },
+            "third": {
+                "title": "Stakeuj a zarábaj",
+                "description": "BTC Bull Token je navrhnutý tak, aby odmeňoval veriacich. Postavený na Ethereu s vysokým APY stakingom v bezpečnom smart kontrakte, odmeny $BTCBULL budú vyplácané stakerom počas celého komunitného predaja."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Plán cesty",
+        "description": "BTC Bull prináša slávu a odmeny všetkým veriacim. Na nevyhnutnej ceste k cene BTC nad 1 milión dolárov bude BTC Bull spaľovať zásobu tokenov, ako bude rásť cena BTC, a rozdávať BTC najsilnejším držiteľom! Navyše, obrovský airdrop $BTCBULL pri $250,000 BTC!",
+        "milestone": {
+            "title": "Míľniky projektu",
+            "first": "$BTCBULL Predpredaj!",
+            "second": "Spálenie tokenov!",
+            "third": "BTC Airdrop!",
+            "forth": "Spálenie tokenov!",
+            "fifth": "BTC Airdrop!",
+            "six": "Spálenie tokenov!",
+            "seven": "$BTCBULL Airdrop!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Získaj zadarmo Bitcoin",
+            "second": "s plným tokenom!"
+        },
+        "description": "Komunita BTC Bull má veľkú šancu získať Bitcoin zadarmo! Stačí držať tvoje $BTCBULL tokeny v Best Wallet a získaš priamy BTC airdrop! Stiahni si Best Wallet ešte dnes alebo importuj svoju existujúcu peňaženku.",
+        "findoutbutton": "Zistiť viac",
+        "why": "Prečo",
+        "description1": "Aby sme mohli odmeniť komunitu BTC Bull v BTC, potrebovali sme partnera s pokročilou peňaženkou. Best Wallet je multichain krypto peňaženka integrovaná s komunitným predajom, čo nám umožňuje posielať BTC všetkým kupujúcim cez aplikáciu Best Wallet. Stiahni si ju a získaj BTC airdrop!"
+    },
+    "presale": {
+        "title": {
+            "first": "Ako kúpiť",
+            "second": "Najlepší BTC predpredaj",
+            "step": {
+                "step1": {
+                    "first": "Krok 1:",
+                    "description1": "Aby si mohol investovať do BTC Bull a rastúceho BTC trhu, potrebuješ DeFi peňaženku ako MetaMask, Trust alebo",
+                    "walletLink": "Best Wallet",
+                    "description2": "a pripoj ju k predajnému widgetu hore na stránke."
+                },
+                "step2": {
+                    "first": "Krok 2:",
+                    "description1": "Maj pripravené ETH alebo USDT. Vykonaj vklad alebo kúp kryptomenu priamo v",
+                    "walletLink": "Best Wallet",
+                    "description2": "na financovanie nákupu $BTCBULL. Nezabudni si ponechať ETH na poplatky za plyn."
+                },
+                "step3": {
+                    "first": "Krok 3:",
+                    "description1": "Stakovanie je dostupné na Ethereu pre zvýšenie tvojich $BTCBULL. Ak sa rozhodneš stakovať, sleduj pokyny vo widgete. APY je dynamické a môže sa meniť.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "Krok 4:",
+                    "description1": "Po dokončení nákupu sa tvoj zostatok $BTCBULL zobrazí vo widgete. Tokeny budú dostupné na vyzdvihnutie po skončení predpredaja.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomika",
+        "bullfund": {
+            "bull": "Bull",
+            "fund": "Fond"
+        },
+        "milestoneburnfund": {
+            "milestone": "Míľnikové Spálenie",
+            "burnfund": "Fond"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Stakovanie",
+            "distribution": "Distribúcia"
+        },
+        "exchange": {
+            "exchange": "Burza",
+            "liquidify": "Zlikvidniť"
+        },
+        "marketing": {
+            "pr": "PR a",
+            "marketing": "Marketing"
+        },
+        "totalsupply": "Celková ponuka",
+        "tokenaddress": "Adresa tokenu",
+        "copied": "Skopírované do schránky"
+    },
+    "bullish": {
+        "title": {
+            "first": "Býčí",
+            "second": "Bitcoin Novinky"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Token",
+            "second": "Často kladené otázky"
+        },
+        "faq1": {
+            "title": "Čo je BTC Bull Token?",
+            "description": "BTC Bull Token je meme minca vytvorená na podporu rastu Bitcoinu na 250 000 USD a viac. BTC Bull sa nebojí žiadnych síl, ktoré by sa ho pokúsili zastaviť. Pridajte sa k tejto významnej krypto predpredaji a zažite jazdu svojho života, keď zanecháme opozíciu v minulosti, získame milióny nových priaznivcov a zameriame sa na prvé miesto medzi aktívami, dokonca nad zlato!"
+        },
+        "faq2": {
+            "title": "Prečo by som mal kúpiť krypto predpredaj $BTCBULL?",
+            "description": "BTC Bull je ultimátna voľba pre nadchádzajúci býčí cyklus Bitcoinu, vďaka čomu je $BTCBULL najlepší predpredaj kryptomeny na rok 2025. $BTCBULL je meme minca s vášnivou komunitou, ktorá podporuje býka v nás všetkých. To znamená, že aj 150 000 USD BTC je FUD – nie si dosť býčí. Tu rastie komunita BTC Bull, stúpame spolu s BTC a zbierame odmeny najlepšej triedy aktív na svete."
+        },
+        "faq3": {
+            "title": "Naozaj môžem získať zadarmo Bitcoin cez airdropy?",
+            "description": "Stáva sa býkovi, že zadrhne? Áno! Držte $BTCBULL tokeny v Best Wallet a získate BTC airdropy, keď cena Bitcoinu dosiahne 150 000 USD a 200 000 USD. Vaše BTC airdropy budú odoslané na vašu BTC adresu v Best Wallet, a výška bude úmerná počtu tokenov $BTCBULL, ktoré ste zakúpili počas Community Sale."
+        },
+        "faq4": {
+            "title": "Je toto Bitcoin faucet alebo airdrop zdarma?",
+            "description": "Nie úplne. Bitcoin faucet umožňuje získať malé množstvo BTC v určitých intervaloch. BTC Bull ponúka bezplatné Bitcoin airdropy držiteľom $BTCBULL tokenov. Stačí, ak držíte tokeny v Best Wallet alebo importujete peňaženku, ktorú ste použili pri nákupe, do Best Wallet, aby ste boli oprávnení."
+        },
+        "faq5": {
+            "title": "Aké sú sociálne siete a podpora BTC Bull?",
+            "description": {
+                "text": "Sledujte BTC Bull na",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "a",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "a pridajte sa k ostatným Bitcoin býkom pri oslave rastu BTC. Tu tiež nájdete najnovšie správy a oznámenia o projekte."
+            }
+        },
+        "faq6": {
+            "title": "Ako funguje staking $BTCBULL?",
+            "description": {
+                "text": "BTC Bull beží na Ethereum a je zabezpečený smart kontraktami. Stakovanie je poháňané technológiou",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": "Sú vyčlenené tokeny $BTCBULL na stakingové odmeny. Odoslaním tokenov do staking kontraktu môžete získať variabilné APY a tokeny zostanú uzamknuté do konca Community Sale. Počas 7 dní po začatí claimu je možné stiahnutie."
+            }
+        },
+        "faq7": {
+            "title": "Kedy dostanem moje $BTCBULL tokeny?",
+            "description": {
+                "title": "Kúpa tokenov počas Community Sale zabezpečí váš podiel cez zabezpečený",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "widget. Tokeny je možné uplatniť po skončení predaja cez oficiálnu webovú stránku. Ak ste zakúpili $BTCBULL cez",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "mobilnú aplikáciu, získate výhody ako priamy nárok na tokeny, prístup k zostatku a cenám počas predaja, a okamžitý DEX trading po spustení."
+            }
+        }
+    },
+    "staking": {
+        "title": "Stake-ujte BTCBULL pre pasívne odmeny",
+        "description": "Distribúcia odmien v BTCBULL bude prebiehať rýchlosťou 399.54 BTCBULL tokenov na ETH blok. Odmeny budú odomknuté a dostupné na výber 7 dní po začiatku claimu.",
+        "tokenstaked": {
+            "token": {
+                "first": "Vaše Tokeny",
+                "second": "Stakovane"
+            },
+            "available": {
+                "first": "Dostupné",
+                "second": "Na stakovanie"
+            },
+            "button": "Kúpiť a stake-núť"
+        },
+        "poor": {
+            "yourpoor": "Váš podiel v poole",
+            "totalpool": "Celkový staking pool",
+            "button": "Unstake tokeny"
+        },
+        "estimate": {
+            "title": {
+                "first": "Odhadované",
+                "second": "Odmeny"
+            },
+            "list": {
+                "first": "Sadzba je dynamická",
+                "second": "Mesačne = Odmeny % / 12",
+                "third": "Denne = Odmeny % / 365"
+            }
+        },
+        "rewards": {
+            "title": "Aktuálne odmeny",
+            "toptext": "na ETH blok"
+        },
+        "totlarewards": {
+            "title": "Celkové odmeny",
+            "button": "Vyzdvihnúť odmeny"
+        },
+        "totalsupply": "Celková ponuka"
+    },
+    "footer": {
+        "terms": "Podmienky služby",
+        "cookies": "Cookies",
+        "privacy": "Zásady ochrany osobných údajov",
+        "description": "Upozornenie: BTC Bull Token je špekulatívne meme aktívum, ktorého hodnota závisí od spoločenského a trhového vnímania Bitcoinu. Trh s kryptomenami nesie riziko straty celého kapitálu. Nič na tejto stránke nepredstavuje finančné poradenstvo. Vykonajte vlastný výskum a HODL na $1M!"
+    },
+    "modal": {
+        "info": {
+            "first": "Váš zakúpený zostatok je celkový počet tokenov, ktoré ste kúpili cez pripojenú peňaženku. Zahŕňa všetky stakovane aj nestakovane tokeny.",
+            "second": "Váš stake-ovateľný zostatok je počet tokenov, ktoré ešte môžete stake-núť v našom smart kontrakte pre dynamické APY počas trvania predpredaja.",
+            "third": "Odmeny zo stakingu BTCBULL sú distribuované rýchlosťou 399.54 BTCBULL na ETH blok. Váš podiel v poole určuje, aké percento z týchto odmien dostanete.",
+            "fourth": "Claim ešte nie je aktívny"
+        },
+        "walletmodal": {
+            "title": "Pripojte Peňaženku",
+            "description": {
+                "start": "Ak už máte peňaženku, vyberte si jednu z nižšie uvedených možností. Ak peňaženku nemáte, stiahnite si ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "a začnite."
+            },
+            "button": "Nemám peňaženku"
+        },
+        "needwallet": {
+            "title": "Potrebujete peňaženku?",
+            "description": {
+                "first": "Best Wallet je aplikácia vhodná pre začiatočníkov,",
+                "second": "ktorá uľahčuje nákup nášho tokenu.",
+                "third": "Postupujte podľa nasledujúcich krokov."
+            },
+            "button": "Stiahnuť Best Wallet",
+            "step1": {
+                "first": "Naskenujte QR kód a",
+                "second": "stiahnite si aplikáciu Best Wallet"
+            },
+            "step2": "Vytvorte si účet",
+            "step3": "Nakúpte v aplikácii kartou alebo kryptomenou"
+        },
+        "widthdraw": {
+            "title": "Unstake tokeny",
+            "description": "Vaše stakovane tokeny",
+            "cancel": "Zrušiť",
+            "widthdraw": "Vybrať"
+        }
+    },
+    "trust": {
+        "title": "Dôvera miliónov od roku 2021",
+        "rated": "Hodnotené od",
+        "tokenscoretitle": "Skóre dôvery Bull Token",
+        "liquidity": "Likvidita",
+        "scale": "Rozsah",
+        "cybersecurity": "Kybernetická bezpečnosť",
+        "apicoverage": "Pokrytie API",
+        "team": "Tím",
+        "incident": "Incident",
+        "ror": "Výnosnosť"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Skóre"
+        },
+        "description": "Skóre TrustNet hodnotí kryptoprojekty na základe výsledkov auditu, bezpečnosti, overenia KYC a prítomnosti na sociálnych sieťach. Toto skóre poskytuje rýchly a transparentný pohľad na dôveryhodnosť projektu, čo pomáha používateľom prijímať informované rozhodnutia v priestore Web3.",
+        "lowlebel": "Slabé",
+        "highlebel": "Vynikajúce"
+    }
+}

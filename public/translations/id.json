@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Staking",
+        "about": "Tentang",
+        "how to buy": "Cara Membeli",
+        "tokenomics": "Tokenomik",
+        "faq": "FAQ",
+        "whitepaper": "Whitepaper",
+        "buynow": "Beli Sekarang"
+    },
+    "hero": {
+        "title1": "PRESALE KRIPTO",
+        "title2": " TERBAIK BITCOIN",
+        "description": "BTC Bull Token adalah kekuatan tak terbendung yang mendorong Bitcoin menuju $1 Juta+! Beli $BTCBULL dan dapatkan Bitcoin saat BTC menjadi aset No.1 di dunia!",
+        "timingtitle": {
+            "first": "Beli",
+            "second": "Token",
+            "third": "Dalam Presale Sekarang!"
+        },
+        "day": "Hari",
+        "hours": "Jam",
+        "minute": "Menit",
+        "second": "Detik",
+        "raised": "USDT Terkumpul: $6,311,467.59 / $7,332,195",
+        "purchased": "$BTCBULL yang Anda beli = 0",
+        "stakeable": "$BTCBULL yang Bisa Di-Stake = 0",
+        "buywithcard": "Beli Dengan Kartu",
+        "buywithcrypto": "Beli Dengan Kripto",
+        "nowallet": "Belum punya dompet?",
+        "poweredby": "Didukung oleh",
+        "featuredin": {
+            "first": "Ditampilkan",
+            "second": "Di"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "Koin Meme Bitcoin",
+            "second": "Resmi"
+        },
+        "description": "Bitcoin adalah aset dengan performa terbaik dalam sejarah dengan AAR sebesar 230% – naik lebih dari 200 juta persen sejak awal. Sekarang bergabunglah dalam perjalanan hidup Anda saat BTC Bull menerjang menuju $250K BTC dan lebih!",
+        "buybutton": "Beli Sekarang",
+        "component": {
+            "first": {
+                "title": "Dapatkan Airdrop Bitcoin!",
+                "description": "Pegang token $BTCBULL untuk menerima airdrop BTC saat harga aset terbaik ini naik! Airdrop $BTCBULL besar juga menanti para hodler terkuat ketika BTC mencapai $250.000, tergantung pada jumlah kepemilikan dan pembelian Anda dalam Penjualan Komunitas."
+            },
+            "second": {
+                "title": "Tonggak Pembakaran Token",
+                "description": "BTC Bull bertujuan untuk memberi penghargaan kepada hodler seiring dengan kenaikan harga Bitcoin. Setiap kali BTC naik $25K, kami akan membakar sebagian pasokan token $BTCBULL atau meng-airdrop BTC ke pemegang setia. Kita bakar dan naik, lalu ulangi!"
+            },
+            "third": {
+                "title": "Stake untuk mendapatkan",
+                "description": "BTC Bull Token dirancang untuk memberi penghargaan kepada para pendukung sejati. Dibangun di Ethereum dengan staking APY tinggi dalam kontrak pintar yang aman, hadiah $BTCBULL akan diberikan kepada staker selama Penjualan Komunitas."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Peta Jalan",
+        "description": "BTC Bull membawa kejayaan dan hadiah bagi semua yang percaya. Dalam perjalanan yang tak terelakkan menuju harga BTC di atas satu juta dolar, BTC Bull akan membakar pasokan token saat harga BTC meningkat, dan meng-airdrop BTC ke hodler terkuat! Selain itu, airdrop $BTCBULL besar saat BTC mencapai 250.000!",
+        "milestone": {
+            "title": "Tonggak Proyek",
+            "first": "Presale $BTCBULL!",
+            "second": "Pembakaran Token!",
+            "third": "Airdrop BTC!",
+            "forth": "Pembakaran Token!",
+            "fifth": "Airdrop BTC!",
+            "six": "Pembakaran Token!",
+            "seven": "Airdrop $BTCBULL!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Dapatkan Bitcoin Gratis",
+            "second": "Dengan Token Lengkap!"
+        },
+        "description": "Komunitas BTC Bull memiliki peluang besar untuk mendapatkan Bitcoin gratis! Cukup simpan token $BTCBULL Anda di Best Wallet untuk menerima airdrop BTC langsung! Anda dapat mengunduh Best Wallet hari ini atau mengimpor dompet yang sudah ada.",
+        "findoutbutton": "Pelajari Lebih Lanjut",
+        "why": "Mengapa",
+        "description1": "Untuk memberi hadiah dalam bentuk BTC kepada komunitas BTC Bull, kami memerlukan mitra dompet dengan kemampuan canggih. Best Wallet adalah dompet kripto multichain yang terintegrasi dengan Penjualan Komunitas kami, memungkinkan kami untuk meng-airdrop BTC ke dompet multichain semua pembeli presale melalui aplikasi mobile Best Wallet. Unduh sekarang untuk menerima airdrop Bitcoin gratis!"
+    },
+    "presale": {
+        "title": {
+            "first": "Cara membeli",
+            "second": "Presale Kripto Terbaik BTC",
+            "step": {
+                "step1": {
+                    "first": "Langkah 1:",
+                    "description1": "Untuk memanfaatkan BTC Bull dan bull run Bitcoin, Anda memerlukan dompet kripto DeFi seperti MetaMask, Trust, atau",
+                    "walletLink": "Best Wallet",
+                    "description2": "Hubungkan dompet Anda ke widget presale di bagian atas halaman ini."
+                },
+                "step2": {
+                    "first": "Langkah 2:",
+                    "description1": "Miliki ETH atau USDT untuk melanjutkan. Lakukan deposit atau beli kripto langsung di",
+                    "walletLink": "Best Wallet",
+                    "description2": "untuk mendanai pembelian $BTCBULL Anda. Pastikan Anda menyisakan cukup ETH untuk biaya gas."
+                },
+                "step3": {
+                    "first": "Langkah 3:",
+                    "description1": "Staking tersedia di Ethereum untuk meningkatkan kepemilikan $BTCBULL Anda. Jika Anda memilih untuk staking, ikuti petunjuk pada widget. APY bersifat dinamis dan bisa berubah seiring waktu.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "Langkah 4:",
+                    "description1": "Setelah menyelesaikan pembelian, saldo token $BTCBULL Anda akan ditampilkan di widget pembelian. Token ini dapat diklaim setelah presale BTC Bull berakhir atau waktunya habis.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomik",
+        "bullfund": {
+            "bull": "Dana",
+            "fund": "Banteng"
+        },
+        "milestoneburnfund": {
+            "milestone": "Pembakaran Tonggak",
+            "burnfund": "Dana"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Staking",
+            "distribution": "Distribusi"
+        },
+        "exchange": {
+            "exchange": "Pertukaran",
+            "liquidify": "Likuiditas"
+        },
+        "marketing": {
+            "pr": "PR dan",
+            "marketing": "Pemasaran"
+        },
+        "totalsupply": "Total Pasokan",
+        "tokenaddress": "Alamat Token",
+        "copied": "Disalin ke papan klip"
+    },
+    "bullish": {
+        "title": {
+            "first": "Berita",
+            "second": "Bitcoin Bullish"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Token",
+            "second": "FAQs"
+        },
+        "faq1": {
+            "title": "Apa itu Token BTC Bull?",
+            "description": "Token BTC Bull adalah koin meme yang dibangun untuk mendukung pergerakan Bitcoin menuju $250.000 dan seterusnya. BTC Bull tidak takut pada kekuatan apa pun yang mencoba menghentikan kenaikannya untuk menjadi aset investasi terbaik di dunia. Bergabunglah dalam pra-penjualan kripto yang monumental ini untuk perjalanan seumur hidup saat kami meninggalkan semua oposisi sejarah, mengumpulkan jutaan pendukung baru, dan membidik posisi aset No.1 di atas emas!"
+        },
+        "faq2": {
+            "title": "Mengapa saya harus membeli pra-penjualan kripto $BTCBULL?",
+            "description": "BTC Bull adalah langkah terbaik untuk siklus bull besar berikutnya yang akan datang untuk Bitcoin (BTC), kemungkinan menjadikan $BTCBULL sebagai pra-penjualan kripto terbaik untuk dibeli di tahun 2025. $BTCBULL adalah koin meme dengan komunitas yang penuh semangat yang mendukung semangat bull dalam diri kita semua. Artinya, bahkan BTC $150K adalah FUD – kamu belum cukup bullish. Di sini kami membangun komunitas BTC Bull, kami naik saat BTC naik, dan akhirnya menuai hasil dari kelas aset terbaik di dunia."
+        },
+        "faq3": {
+            "title": "Benarkah saya bisa mendapatkan airdrop Bitcoin gratis?",
+            "description": "Apakah banteng pernah ragu? Tidak! Pegang token $BTCBULL Anda di Best Wallet dan Anda akan menerima airdrop BTC saat harga Bitcoin mencapai $150.000 dan $200.000. Airdrop BTC Anda akan dikirim ke alamat BTC Anda di Best Wallet, dan jumlahnya akan dihitung berdasarkan jumlah token $BTCBULL yang Anda beli dalam Penjualan Komunitas."
+        },
+        "faq4": {
+            "title": "Apakah ini faucet Bitcoin gratis atau airdrop Bitcoin?",
+            "description": "Tidak persis. Faucet Bitcoin gratis memungkinkan orang untuk menebus sejumlah BTC secara gratis pada interval tertentu. BTC Bull menawarkan airdrop Bitcoin gratis kepada pemegang token $BTCBULL. Yang perlu Anda lakukan adalah menyimpan token Anda di Best Wallet, atau impor dompet yang Anda gunakan untuk membeli token $BTCBULL ke dalam Best Wallet untuk memenuhi syarat."
+        },
+        "faq5": {
+            "title": "Apa media sosial dan dukungan BTC Bull?",
+            "description": {
+                "text": "Ikuti BTC Bull di",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "dan",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "untuk bergabung dengan semua sesama Bitcoin Bull dan merayakan kenaikan BTC. Di sini Anda juga dapat tetap terupdate dengan semua berita dan pengumuman proyek."
+            }
+        },
+        "faq6": {
+            "title": "Bagaimana cara kerja staking $BTCBULL?",
+            "description": {
+                "text": "BTC Bull dibangun di Ethereum dan diamankan oleh smart contract, dengan staking didukung oleh teknologi",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": ". Alokasi token $BTCBULL disisihkan untuk hadiah staking. Oleh karena itu, mengirim token $BTCBULL Anda ke kontrak staking memungkinkan Anda mendapatkan APY variabel dan mengunci token tersebut hingga akhir Penjualan Komunitas. Token yang di-stake dapat ditarik 7 hari setelah klaim dibuka."
+            }
+        },
+        "faq7": {
+            "title": "Kapan saya akan menerima token $BTCBULL saya?",
+            "description": {
+                "title": "Membeli $BTCBULL dalam Penjualan Komunitas menjamin alokasi Anda melalui widget aman dari",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": ". Token ini dapat diklaim melalui situs resmi setelah Penjualan Komunitas selesai. Jika Anda membeli $BTCBULL melalui aplikasi seluler",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": ", Anda akan menikmati manfaat integrasi penuh seperti klaim token langsung, akses ke saldo token Anda dan harga langsung selama penjualan token, serta perdagangan DEX langsung saat peluncuran."
+            }
+        }
+    },
+    "staking": {
+        "title": "Stake BTCBULL untuk Penghasilan Pasif",
+        "description": "Distribusi hadiah token BTCBULL akan terjadi pada tingkat 399,54 token BTCBULL per blok ETH. Hadiah ini akan dibuka dan tersedia untuk penarikan 7 hari setelah klaim token aktif.",
+        "tokenstaked": {
+            "token": {
+                "first": "Token Anda",
+                "second": "di-Stake"
+            },
+            "available": {
+                "first": "Tersedia",
+                "second": "Untuk Staking"
+            },
+            "button": "Beli dan Stake"
+        },
+        "poor": {
+            "yourpoor": "Persentase Anda dari pool",
+            "totalpool": "Total Pool Staking",
+            "button": "Unstake Token"
+        },
+        "estimate": {
+            "title": {
+                "first": "Perkiraan",
+                "second": "Hadiah"
+            },
+            "list": {
+                "first": "Tingkatnya dinamis",
+                "second": "Bulanan = % Hadiah / 12",
+                "third": "Harian = % Hadiah / 365"
+            }
+        },
+        "rewards": {
+            "title": "Hadiah Saat Ini",
+            "toptext": "per blok ETH"
+        },
+        "totlarewards": {
+            "title": "Total Hadiah",
+            "button": "Klaim Hadiah"
+        },
+        "totalsupply": "Total Pasokan"
+    },
+    "footer": {
+        "terms": "Ketentuan Layanan",
+        "cookies": "Cookies",
+        "privacy": "Kebijakan Privasi",
+        "description": "Disclaimer: BTC Bull Token adalah aset koin meme spekulatif yang terkait dengan nilai sosial dan pasar Bitcoin. Pasar cryptocurrency memiliki risiko bahwa Anda bisa kehilangan semua modal Anda. Tidak ada yang di situs web ini merupakan nasihat keuangan. Lakukan riset Anda sendiri (DYOR) dan HODL hingga $1 juta!"
+    },
+    "modal": {
+        "info": {
+            "first": "Saldo pembelian Anda adalah jumlah total token yang telah Anda beli menggunakan dompet yang terhubung. Ini mencakup semua token yang di-stake dan tidak di-stake.",
+            "second": "Saldo yang dapat di-stake adalah jumlah token yang masih bisa Anda staking di kontrak pintar kami untuk APY dinamis selama pra-penjualan berlangsung.",
+            "third": "Hadiah staking BTCBULL didistribusikan pada tingkat 399,54 BTCBULL per blok ETH. Persentase Anda dari pool akan menentukan persentase token 399,54 BTCBULL yang Anda terima.",
+            "fourth": "Klaim belum aktif"
+        },
+        "walletmodal": {
+            "title": "Hubungkan Dompet",
+            "description": {
+                "start": "Jika Anda sudah memiliki dompet, pilih dompet yang diinginkan dari opsi di bawah ini. Jika Anda belum memiliki dompet, unduh ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "untuk memulai."
+            },
+            "button": "Saya belum punya dompet"
+        },
+        "needwallet": {
+            "title": "Butuh Dompet?",
+            "description": {
+                "first": "Best Wallet adalah aplikasi ramah pemula",
+                "second": "yang memudahkan pembelian token kami.",
+                "third": "Ikuti langkah-langkah di bawah ini untuk memulai."
+            },
+            "button": "Unduh Best Wallet",
+            "step1": {
+                "first": "Pindai kode QR untuk",
+                "second": "mengunduh Aplikasi Best Wallet"
+            },
+            "step2": "Buat akun",
+            "step3": "Beli di dalam aplikasi dengan kartu atau kripto"
+        },
+        "widthdraw": {
+            "title": "Unstake Token",
+            "description": "Token Anda yang di-Stake",
+            "cancel": "Batalkan",
+            "widthdraw": "Tarik"
+        }
+    },
+    "trust": {
+        "title": "Dipercaya Jutaan Orang Sejak 2021",
+        "rated": "Dinilai oleh",
+        "tokenscoretitle": "Skor Kepercayaan Bull Token",
+        "liquidity": "Likuiditas",
+        "scale": "Skala",
+        "cybersecurity": "Keamanan Siber",
+        "apicoverage": "Cakupan API",
+        "team": "Tim",
+        "incident": "Insiden",
+        "ror": "Tingkat Pengembalian"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Skor"
+        },
+        "description": "Skor TrustNet mengevaluasi proyek kripto berdasarkan hasil audit, keamanan, verifikasi KYC, dan kehadiran di media sosial. Skor ini memberikan pandangan cepat dan transparan tentang kredibilitas suatu proyek, membantu pengguna membuat keputusan yang tepat di ruang Web3.",
+        "lowlebel": "Buruk",
+        "highlebel": "Sangat Baik"
+    }
+}

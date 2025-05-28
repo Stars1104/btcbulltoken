@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Staking",
+        "about": "Om",
+        "how to buy": "Hur man köper",
+        "tokenomics": "Tokenomics",
+        "faq": "FAQs",
+        "whitepaper": "Whitepaper",
+        "buynow": "Köp nu"
+    },
+    "hero": {
+        "title1": "BITCOINS BÄSTA",
+        "title2": " KRYPTOFÖRSÄLJNING",
+        "description": "BTC Bull Token är den ostoppbara kraften som driver Bitcoin mot $1M+! Köp $BTCBULL och tjäna Bitcoin när BTC blir världens främsta tillgång!",
+        "timingtitle": {
+            "first": "Köp",
+            "second": "Token",
+            "third": "I Försäljning Nu!"
+        },
+        "day": "Dagar",
+        "hours": "Timmar",
+        "minute": "Minuter",
+        "second": "Sekunder",
+        "raised": "USDT insamlat: $6,311,467.59 / $7,332,195",
+        "purchased": "Dina köpta $BTCBULL = 0",
+        "stakeable": "Dina stakebara $BTCBULL = 0",
+        "buywithcard": "Köp med kort",
+        "buywithcrypto": "Köp med krypto",
+        "nowallet": "Har du ingen plånbok?",
+        "poweredby": "Drivs av",
+        "featuredin": {
+            "first": "Utvald",
+            "second": "I"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "Den Officiella",
+            "second": "Bitcoin Meme Coin"
+        },
+        "description": "Bitcoin är den mest framgångsrika tillgången i historien med en genomsnittlig årlig avkastning på 230 % – upp mer än 200 miljoner procent sedan starten. Hoppa nu på tåget när BTC Bull rusar mot $250K BTC och bortom!",
+        "buybutton": "Köp nu",
+        "component": {
+            "first": {
+                "title": "Tjäna Bitcoin Airdrops!",
+                "description": "Håll $BTCBULL-tokens för att få BTC-airdrops när världens största tillgång stiger i pris! En stor $BTCBULL-airdrop väntar också de starkaste hodlarna när BTC når $250 000, viktat efter ditt nuvarande innehav och köpbelopp i Community Sale."
+            },
+            "second": {
+                "title": "Token Burn-milstolpar",
+                "description": "BTC Bull belönar hodlare när Bitcoinpriset ökar. Varje gång BTC stiger med ytterligare $25K, bränner vi antingen en procentandel av $BTCBULL-tokenutbudet eller airdroppar BTC till våra lojala innehavare. Vi bränner och stiger – om och om igen!"
+            },
+            "third": {
+                "title": "Stakea för att tjäna",
+                "description": "BTC Bull Token är utformat för att belöna troende på alla sätt. Byggd på Ethereum med hög APY-staking i ett säkert smart kontrakt, ges $BTCBULL-belöningar till stakers under hela Community Sale-perioden."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Färdplan",
+        "description": "BTC Bull för med sig ära och belöningar till alla troende. På den oundvikliga vägen mot ett BTC-pris över 1 miljon dollar kommer BTC Bull att bränna tokens när priset på BTC ökar – och airdroppa BTC till de starkaste hodlarna! Dessutom en massiv $BTCBULL-airdrop vid $250 000 BTC!",
+        "milestone": {
+            "title": "Projektmilstolpar",
+            "first": "$BTCBULL Försäljning!",
+            "second": "Token Burn!",
+            "third": "BTC Airdrop!",
+            "forth": "Token Burn!",
+            "fifth": "BTC Airdrop!",
+            "six": "Token Burn!",
+            "seven": "$BTCBULL Airdrop!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Tjäna gratis Bitcoin",
+            "second": "med den fullständiga tokenen!"
+        },
+        "description": "BTC Bull-communityn har en mega-bullish möjlighet att tjäna gratis Bitcoin! Håll bara dina $BTCBULL-tokens i Best Wallet för att ta emot direkta BTC-airdrops! Du kan ladda ner Best Wallet idag eller importera din befintliga plånbok.",
+        "findoutbutton": "Läs mer",
+        "why": "Varför",
+        "description1": "För att belöna BTC Bull-communityn med BTC behövde vi en plånbokspartner med avancerade funktioner. Best Wallet är en multikedje-kryptoplånbok integrerad med vår Community Sale, vilket gör att vi kan airdroppa BTC till alla köpare av kryptoförsäljningen direkt till deras multikedjeplånböcker via Best Wallet-mobilappen. Ladda ner den idag för att få gratis Bitcoin-airdrops!"
+    },
+    "presale": {
+        "title": {
+            "first": "Hur man köper",
+            "second": "BTC:s bästa kryptoförsäljning",
+            "step": {
+                "step1": {
+                    "first": "Steg 1:",
+                    "description1": "För att dra nytta av BTC Bull och Bitcoin-bullmarknaden behöver du en DeFi-kryptoplånbok som MetaMask, Trust eller",
+                    "walletLink": "Bästa Plånbok",
+                    "description2": "Anslut den till försäljningswidgeten högst upp på denna sida."
+                },
+                "step2": {
+                    "first": "Steg 2:",
+                    "description1": "Ha ETH eller USDT tillgängligt. Gör en insättning eller köp krypto direkt i",
+                    "walletLink": "Bästa Plånbok",
+                    "description2": "för att finansiera ditt köp av $BTCBULL. Se till att du har tillräckligt med ETH kvar för att täcka gasavgifter."
+                },
+                "step3": {
+                    "first": "Steg 3:",
+                    "description1": "Staking är tillgängligt på Ethereum för att öka dina $BTCBULL-innehav. Om du väljer att stake:a, följ instruktionerna i widgeten. APY är dynamiskt och kan förändras över tid.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "Steg 4:",
+                    "description1": "När ditt köp är klart kommer din $BTCBULL-tokenbalans att visas i köpwidge­ten. Dessa tokens kan hämtas när BTC Bull-försäljningen är avslutad eller har löpt ut.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomik",
+        "bullfund": {
+            "bull": "Bull",
+            "fund": "Fond"
+        },
+        "milestoneburnfund": {
+            "milestone": "Milstolpebränning",
+            "burnfund": "Fond"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Staking",
+            "distribution": "Fördelning"
+        },
+        "exchange": {
+            "exchange": "Växling",
+            "liquidify": "Likviditet"
+        },
+        "marketing": {
+            "pr": "PR och",
+            "marketing": "Marknadsföring"
+        },
+        "totalsupply": "Total tillgång",
+        "tokenaddress": "Tokenadress",
+        "copied": "Kopierat till urklipp"
+    },
+    "bullish": {
+        "title": {
+            "first": "Bullish",
+            "second": "Bitcoin-nyheter"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Token",
+            "second": "Vanliga frågor"
+        },
+        "faq1": {
+            "title": "Vad är BTC Bull Token?",
+            "description": "BTC Bull Token är en meme coin skapad för att driva Bitcoins väg till $250 000 och bortom. BTC Bull backar inte för något som försöker hindra dess resa till att bli den bästa investerings­tillgången i världen. Gå med oss i denna historiska kryptoförsäljning och upplev en resa för livet när vi lämnar historiska hinder bakom oss, samlar miljoner nya anhängare och siktar på att bli den främsta tillgången i världen, överträffande guld!"
+        },
+        "faq2": {
+            "title": "Varför ska jag köpa $BTCBULL:s kryptoförsäljning?",
+            "description": "BTC Bull är det ultimata spelet inför nästa stora bullmarknad som väntar Bitcoin (BTC), vilket sannolikt gör $BTCBULL till den bästa kryptoförsäljningen att köpa år 2025. $BTCBULL är en meme coin med en passionerad gemenskap som hejar på tjuren i oss alla. Det betyder att även $150K BTC är FUD – du är inte tillräckligt bullish. Här bygger vi BTC Bull-gemenskapen, vi stiger i takt med BTC, och vi skördar till slut frukterna av världens bästa tillgångsklass."
+        },
+        "faq3": {
+            "title": "Kan jag verkligen få gratis Bitcoin-airdrops?",
+            "description": "Stammar en tjur någonsin? Ja! Håll $BTCBULL-tokens i Best Wallet så får du BTC-airdrops när Bitcoins pris når $150 000 och $200 000. Dina BTC-airdrops skickas till din BTC-adress i Best Wallet, och mängden viktas beroende på hur många $BTCBULL-tokens du köpte under Community Sale."
+        },
+        "faq4": {
+            "title": "Är detta en gratis Bitcoin-kran eller Bitcoin-airdrop?",
+            "description": "Inte riktigt. En gratis Bitcoin-kran låter människor hämta gratis BTC vid vissa intervaller. BTC Bull erbjuder gratis Bitcoin-airdrops till innehavare av $BTCBULL-token. Allt du behöver göra är att hålla dina tokens i Best Wallet, eller importera den plånbok du använde för att köpa $BTCBULL-tokens till Best Wallet, för att vara berättigad."
+        },
+        "faq5": {
+            "title": "Vilka är BTC Bulls sociala medier och support?",
+            "description": {
+                "text": "Följ BTC Bull på",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "och",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "för att gå med dina Bitcoin Bull-kamrater och fira BTC:s uppgång. Här kan du också hålla dig uppdaterad med alla nyheter och meddelanden om projektet."
+            }
+        },
+        "faq6": {
+            "title": "Hur fungerar $BTCBULL-staking?",
+            "description": {
+                "text": "BTC Bull är byggd på Ethereum och säkras av smarta kontrakt, med staking som drivs av",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": "teknik. En andel av $BTCBULL-tokens avsätts för stakingbelöningar. Därför ger insättning av dina $BTCBULL-tokens till stakingkontraktet möjlighet att tjäna dynamisk APY, och låser upp dem till slutet av Community Sale. Stakade tokens kan tas ut 7 dagar efter att hämtningen har aktiverats."
+            }
+        },
+        "faq7": {
+            "title": "När får jag mina $BTCBULL-tokens?",
+            "description": {
+                "title": "Att köpa $BTCBULL i Community Sale garanterar din tilldelning via det säkra",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "widget. Dessa tokens kan hämtas via den officiella webbplatsen när försäljningen är slut. Om du köper $BTCBULL genom",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "mobilappen får du fulla integrationsfördelar som direkt hämtning av tokens, åtkomst till din tokenbalans och livepriser under hela tokenförsäljningen samt omedelbar DEX-handel vid lansering."
+            }
+        }
+    },
+    "staking": {
+        "title": "Stake:a BTCBULL för passiva belöningar",
+        "description": "Fördelningen av BTCBULL-tokenbelöningar kommer att ske med en takt på 399,54 BTCBULL-tokens per ETH-block. Dessa belöningar låses upp och blir tillgängliga för uttag 7 dagar efter att hämtningen av tokens går live.",
+        "tokenstaked": {
+            "token": {
+                "first": "Dina Tokens",
+                "second": "Stakade"
+            },
+            "available": {
+                "first": "Tillgängliga",
+                "second": "För Stake"
+            },
+            "button": "Köp och Stake:a"
+        },
+        "poor": {
+            "yourpoor": "Din andel av poolen",
+            "totalpool": "Total stakingpool",
+            "button": "Avstake:a Tokens"
+        },
+        "estimate": {
+            "title": {
+                "first": "Uppskattade",
+                "second": "Belöningar"
+            },
+            "list": {
+                "first": "Takt är dynamisk",
+                "second": "Månadsvis = Belöning % / 12",
+                "third": "Dagligen = Belöning % / 365"
+            }
+        },
+        "rewards": {
+            "title": "Nuvarande Belöningar",
+            "toptext": "per ETH-block"
+        },
+        "totlarewards": {
+            "title": "Totala Belöningar",
+            "button": "Hämta Belöningar"
+        },
+        "totalsupply": "Total tillgång"
+    },
+    "footer": {
+        "terms": "Användarvillkor",
+        "cookies": "Cookies",
+        "privacy": "Integritetspolicy",
+        "description": "Ansvarsfriskrivning: BTC Bull Token är en spekulativ meme coin-tillgång kopplad till det sociala och marknadsmässiga värdet av Bitcoin. Kryptomarknaden innebär en risk att du kan förlora hela ditt kapital. Inget på denna webbplats är finansiell rådgivning. Gör din egen research (DYOR) och HODLa till $1M!"
+    },
+    "modal": {
+        "info": {
+            "first": "Din köpta balans är det totala antalet tokens du har köpt med den anslutna plånboken. Detta inkluderar både stakade och icke-stakade tokens.",
+            "second": "Din stakebara balans är det antal tokens du har köpt som fortfarande kan stake:as i vårt smarta kontrakt för dynamisk APY medan förförsäljningen pågår.",
+            "third": "BTCBULL stakingbelöningar distribueras med en takt på 399,54 BTCBULL per ETH-block. Din procentandel av poolen avgör hur stor andel av dessa 399,54 BTCBULL-tokens du får.",
+            "fourth": "Hämtning är ännu inte aktiv"
+        },
+        "walletmodal": {
+            "title": "Anslut Plånbok",
+            "description": {
+                "start": "Om du redan har en plånbok, välj din önskade plånbok från alternativen nedan. Om du inte har en plånbok, ladda ner ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "för att komma igång."
+            },
+            "button": "Jag har ingen plånbok"
+        },
+        "needwallet": {
+            "title": "Behöver du en plånbok?",
+            "description": {
+                "first": "Best Wallet är en nybörjarvänlig app",
+                "second": "som gör det enkelt att köpa vår token.",
+                "third": "Följ stegen nedan för att komma igång."
+            },
+            "button": "Ladda ner Best Wallet",
+            "step1": {
+                "first": "Skanna QR-koden för att",
+                "second": "ladda ner Best Wallet App"
+            },
+            "step2": "Skapa ett konto",
+            "step3": "Köp i appen med kort eller krypto"
+        },
+        "widthdraw": {
+            "title": "Avstake:a Tokens",
+            "description": "Dina Stakade Tokens",
+            "cancel": "Avbryt",
+            "widthdraw": "Ta ut"
+        }
+    },
+    "trust": {
+        "title": "Förtroende från miljoner sedan 2021",
+        "rated": "Betygsatt av",
+        "tokenscoretitle": "Bull Token Förtroendepoäng",
+        "liquidity": "Likviditet",
+        "scale": "Skala",
+        "cybersecurity": "Cybersäkerhet",
+        "apicoverage": "API-täckning",
+        "team": "Team",
+        "incident": "Incident",
+        "ror": "Avkastning"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Poäng"
+        },
+        "description": "TrustNet-poängen utvärderar kryptoprojekt baserat på revisionsresultat, säkerhet, KYC-verifiering och närvaro i sociala medier. Poängen ger en snabb och transparent översikt över ett projekts trovärdighet och hjälper användare att fatta välgrundade beslut inom Web3.",
+        "lowlebel": "Svag",
+        "highlebel": "Utmärkt"
+    }
+}
