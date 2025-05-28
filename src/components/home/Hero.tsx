@@ -24,8 +24,6 @@ import BuyNowModal from "../modal/BuyNow";
 import { useState, useEffect } from "react";
 import NeedWallet from "../modal/NeedWallet";
 import Notice from "../modal/Notice";
-import Solids from "../../assets/documents/solid-proof-audit.pdf"
-import Whitepaper from "../../assets/documents/whitepaper.pdf"
 import { useTranslation } from 'react-i18next';
 import USDT from "../../assets/wallet/usdt.svg"
 import ArrowDown from "../../assets/wallet/arrowdown.svg";
@@ -228,7 +226,7 @@ const Hero = () => {
                     <div className="w-full h-full relative -z-10">
                         <img src={HeroBannerImage} alt="" className="w-full h-full object-cover hidden xl:block" />
                         <img src={HeroBannerImageMobile} alt="" className="w-full h-full object-cover lg:block xl:hidden" />
-                        <a href={Whitepaper} target="_blank" rel="noopener noreferrer" className="border-3 border-[#FFC700] text-[#ffffff] rounded-full w-full md:w-[150px] py-2 absolute md:bottom-10 md:left-[35%] xl:mb-60 xl:left-4 xl:bottom-10 flex justify-center items-center bg-[#1f1f1f] cursor-pointer bottom-10">Whitepaper</a>
+                        <a href="https://drive.google.com/file/d/1hIc95kANq-kcejWV6KvGPbHBFrlpO60W/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="border-3 border-[#FFC700] text-[#ffffff] rounded-full w-full md:w-[150px] py-2 absolute md:bottom-10 md:left-[35%] xl:mb-60 xl:left-4 xl:bottom-10 flex justify-center items-center bg-[#1f1f1f] cursor-pointer bottom-10">Whitepaper</a>
                     </div>
                     <div className="w-full flex flex-col gap-2 justify-center items-start xl:-mt-28 lg:-mt-6 z-50 px-4 md:px-0">
                         <h1 className="custom-font uppercase tracking-[1.5px] md:tracking-[2.4px] leading-tight">
@@ -348,7 +346,7 @@ const Hero = () => {
 
                         <div className="xl:w-[10%] xl:h-full h-full w-full flex xl:flex-col flex-row xl:justify-start xl:items-start justify-center items-center gap-2 lg:order-1 xl:order-none">
                             <a href="https://coinsult.net/projects/btc-bull/" target="_blank" rel="noopener noreferrer"><img src={CoinResult} alt="" className="w-5 sm:w-6 md:w-8 cursor-pointer" /></a>
-                            <a href={Solids} target="_blank" rel="noopener noreferrer"><img src={Solid} alt="" className="w-5 sm:w-6 md:w-8 cursor-pointer" /></a>
+                            <a href="https://drive.google.com/file/d/1JS4RmRu6zmKTjU8PJTOXzQaF428qqvsC/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img src={Solid} alt="" className="w-5 sm:w-6 md:w-8 cursor-pointer" /></a>
                         </div>
                     </div>
                 </div>

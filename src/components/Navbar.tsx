@@ -30,7 +30,6 @@ import Swedish from "../assets/flags/sv.svg";
 import Thai from "../assets/flags/th.svg";
 import Turkish from "../assets/flags/tr.svg";
 import Vietnamese from "../assets/flags/vn.svg";
-import Whitepaper from "../assets/documents/whitepaper.pdf";
 import BuyNowModal from "./modal/BuyNow";
 import { useTranslation } from 'react-i18next';
 import { useLocation } from 'react-router-dom';
@@ -178,7 +177,7 @@ const Navbar = () => {
                     </div>
                 </div>
                 <div className="hidden xl:flex items-center gap-4">
-                    <a href={Whitepaper} target="_blank" className="relative flex justify-center items-center text-base font-[600] text-[#FFC700] rounded-full w-[140px] cursor-pointer transition duration-300 tracking-wider">
+                    <a href="https://drive.google.com/file/d/1hIc95kANq-kcejWV6KvGPbHBFrlpO60W/view?usp=sharing" target="_blank" className="relative flex justify-center items-center text-base font-[600] text-[#FFC700] rounded-full w-[140px] cursor-pointer transition duration-300 tracking-wider">
                         <img src={ButtonOutline} alt="Button Outline" className="w-full absolute" />
                         {t("navbar.whitepaper")}
                     </a>
