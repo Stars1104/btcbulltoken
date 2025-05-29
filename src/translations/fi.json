@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Staking",
+        "about": "Tietoa",
+        "how to buy": "Kuinka ostaa",
+        "tokenomics": "Tokenomiikka",
+        "faq": "UKK",
+        "whitepaper": "Whitepaper",
+        "buynow": "Osta nyt"
+    },
+    "hero": {
+        "title1": "BITCOININ PARAS",
+        "title2": "KRYPTO-ENNAKKOMYYNTI",
+        "description": "BTC Bull Token on pysäyttämätön voima, joka työntää Bitcoinia kohti yli 1 miljoonan dollarin hintaa! Osta $BTCBULL ja ansaitse Bitcoinia, kun BTC:stä tulee maailman arvokkain omaisuuserä!",
+        "timingtitle": {
+            "first": "Osta",
+            "second": "Token",
+            "third": "Ennakkomyynnistä nyt!"
+        },
+        "day": "Päivät",
+        "hours": "Tunnit",
+        "minute": "Minuutit",
+        "second": "Sekunnit",
+        "raised": "Kerätty USDT: $6,311,467.59 / $7,332,195",
+        "purchased": "Ostamasi $BTCBULL = 0",
+        "stakeable": "Panostettavissa oleva $BTCBULL = 0",
+        "buywithcard": "Osta kortilla",
+        "buywithcrypto": "Osta kryptolla",
+        "nowallet": "Eikö sinulla ole lompakkoa?",
+        "poweredby": "Powered by",
+        "featuredin": {
+            "first": "Esitelty",
+            "second": "julkaisussa"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "Virallinen",
+            "second": "Bitcoin-meemikolikko"
+        },
+        "description": "Bitcoin on historian parhaiten tuottanut omaisuuserä 230 %:n vuosituotolla – sen arvo on noussut yli 200 miljoonaa prosenttia perustamisestaan lähtien. Lähde nyt mukaan elämän matkalle, kun BTC Bull rynnistää kohti 250 000 dollarin BTC:tä ja sen yli!",
+        "buybutton": "Osta nyt",
+        "component": {
+            "first": {
+                "title": "Ansaitse Bitcoin-airdroppeja!",
+                "description": "Pidä hallussasi $BTCBULL tokeneita saadaksesi BTC-airdroppeja suurimman omaisuuserän hinnan noustessa! Suuri $BTCBULL-airdrop odottaa myös vahvimpia hodlaajia, kun BTC saavuttaa 250 000 dollaria, ja se jaetaan nykyisten omistusten ja yhteisömyynnin ostojen mukaan."
+            },
+            "second": {
+                "title": "Tokenien polton virstanpylväät",
+                "description": "BTC Bull palkitsee hodlaajia, kun Bitcoinin hinta nousee. Joka kerta kun BTC nousee 25 000 dollarilla, poltamme osan $BTCBULL-tarjonnasta tai jaamme BTC:tä uskollisille omistajille. Me poltamme ja nousemme – ja toistamme!"
+            },
+            "third": {
+                "title": "Panosta ja ansaitse",
+                "description": "BTC Bull Token on suunniteltu palkitsemaan uskovaisia kaikilla tavoilla. Ethereumille rakennettu ja turvalliseen älysopimukseen perustuva korkea APY-staking takaa, että $BTCBULL-palkintoja jaetaan panostajille yhteisömyynnin ajan."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Aikataulu",
+        "description": "BTC Bull tuo kunniaa ja palkintoja kaikille uskoville. Matkalla kohti väistämätöntä BTC:n yli miljoonan dollarin hintaa BTC Bull polttaa tokentarjontaa hinnan noustessa ja jakaa BTC:tä vahvimmille hodlaajille! Lisäksi valtava $BTCBULL-airdrop BTC:n saavuttaessa 250 000!",
+        "milestone": {
+            "title": "Projektin virstanpylväät",
+            "first": "$BTCBULL Ennakkopresale!",
+            "second": "Tokenin poltto!",
+            "third": "BTC Airdrop!",
+            "forth": "Tokenin poltto!",
+            "fifth": "BTC Airdrop!",
+            "six": "Tokenin poltto!",
+            "seven": "$BTCBULL Airdrop!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Ansaitse ilmaista Bitcoinia",
+            "second": "täydellä tokenilla!"
+        },
+        "description": "BTC Bull -yhteisöllä on megahärkämäinen mahdollisuus ansaita ilmaista Bitcoinia! Pidä vain $BTCBULL-tokenit Best Walletissa saadaksesi suoria BTC-airdroppeja! Lataa Best Wallet tänään tai tuo olemassa oleva lompakkosi.",
+        "findoutbutton": "Lue lisää",
+        "why": "Miksi",
+        "description1": "Palkitaksemme BTC Bull -yhteisön BTC:llä tarvitsimme lompakkokumppanin, jolla on kehittyneet ominaisuudet. Best Wallet on multiketjulompakko, joka on integroitu yhteisömyyntiimme, mahdollistaen BTC-airdropit kaikille ostajille sovelluksen kautta. Lataa ja vastaanota BTC:tä ilmaiseksi!"
+    },
+    "presale": {
+        "title": {
+            "first": "Kuinka ostaa",
+            "second": "Bitcoinin paras ennakkomyynti",
+            "step": {
+                "step1": {
+                    "first": "Vaihe 1:",
+                    "description1": "Hyödynnäksesi BTC Bull -projektia ja Bitcoinin nousua, tarvitset DeFi-kryptolompakon, kuten MetaMask, Trust tai",
+                    "walletLink": "Best Wallet",
+                    "description2": "Yhdistä se tämän sivun yläosassa olevaan ennakkomyyntiwidgetiin."
+                },
+                "step2": {
+                    "first": "Vaihe 2:",
+                    "description1": "Tarvitset ETH tai USDT. Talleta tai osta kryptoa suoraan",
+                    "walletLink": "Best Wallet",
+                    "description2": "sovelluksessa rahoittaaksesi $BTCBULL-ostosi. Varmista, että sinulla on tarpeeksi ETH:ta kaasumaksuihin."
+                },
+                "step3": {
+                    "first": "Vaihe 3:",
+                    "description1": "Staking on saatavilla Ethereumissa $BTCBULL-tokenien kasvattamiseksi. Jos päätät panostaa, seuraa widgetin ohjeita. APY on dynaaminen ja voi muuttua ajan myötä.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "Vaihe 4:",
+                    "description1": "Kun olet tehnyt ostoksen, $BTCBULL-saldosi näkyy ostowidgetissä. Tokenit voidaan lunastaa, kun ennakkomyynti on päättynyt tai myyntiaika on umpeutunut.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomics",
+        "bullfund": {
+            "bull": "Stier",
+            "fund": "Fonds"
+        },
+        "milestoneburnfund": {
+            "milestone": "Mijlpaalverbranding",
+            "burnfund": "Fonds"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Stier",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Staken",
+            "distribution": "Verdeling"
+        },
+        "exchange": {
+            "exchange": "Beurs",
+            "liquidify": "Liquiditeit"
+        },
+        "marketing": {
+            "pr": "PR en",
+            "marketing": "Marketing"
+        },
+        "totalsupply": "Totale Voorraad",
+        "tokenaddress": "Tokenadres",
+        "copied": "Gekopieerd naar klembord"
+    },
+    "bullish": {
+        "title": {
+            "first": "Optimistisch",
+            "second": "Bitcoin Nieuws"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Token",
+            "second": "Veelgestelde Vragen"
+        },
+        "faq1": {
+            "title": "Wat is BTC Bull Token?",
+            "description": "BTC Bull Token is een mememunt die is gebouwd om Bitcoins opmars naar $250.000 en verder te steunen. De BTC Stier laat zich niet intimideren door krachten die zijn opkomst tot het beste investeringsmiddel ter wereld proberen te stoppen. Doe mee aan deze gedenkwaardige crypto-voorverkoop voor de rit van je leven terwijl we alle tegenstand uit het verleden achter ons laten, miljoenen nieuwe supporters verzamelen en mikken op de nummer 1 positie in de wereld boven goud!"
+        },
+        "faq2": {
+            "title": "Waarom zou ik de $BTCBULL crypto-voorverkoop kopen?",
+            "description": "BTC Bull is dé zet voor de volgende massieve bullcyclus die voor Bitcoin (BTC) in aantocht is, waardoor $BTCBULL waarschijnlijk de beste crypto-voorverkoop is om in 2025 te kopen. $BTCBULL is een mememunt met een gepassioneerde gemeenschap die de stier in ons allemaal aanmoedigt. Dat betekent dat zelfs $150K BTC FUD is – je bent niet bullish genoeg. Hier groeit de BTC Bull-community mee met BTC, en oogsten we eindelijk de beloningen van de beste activaklasse ter wereld."
+        },
+        "faq3": {
+            "title": "Kan ik echt gratis Bitcoin-airdrops verdienen?",
+            "description": "Stottert een stier ooit? Precies! Houd $BTCBULL-tokens in Best Wallet en je ontvangt BTC-airdrops wanneer de prijs van Bitcoin $150.000 en $200.000 bereikt. Je BTC-airdrops worden verzonden naar je BTC-adres in Best Wallet, en het bedrag is afhankelijk van het aantal $BTCBULL-tokens dat je in de Community Sale hebt gekocht."
+        },
+        "faq4": {
+            "title": "Is dit een gratis Bitcoin faucet of Bitcoin-airdrop?",
+            "description": "Niet precies. Een gratis Bitcoin-faucet laat mensen op bepaalde momenten gratis BTC claimen. BTC Bull biedt gratis Bitcoin-airdrops aan houders van de $BTCBULL-token. Het enige wat je hoeft te doen is je tokens in Best Wallet houden of de wallet importeren die je hebt gebruikt om $BTCBULL-tokens te kopen om in aanmerking te komen."
+        },
+        "faq5": {
+            "title": "Wat is de social media en ondersteuning van BTC Bull?",
+            "description": {
+                "text": "Volg BTC Bull op",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "en",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "om je aan te sluiten bij alle mede-Bitcoin Stieren en de opkomst van BTC te vieren. Hier blijf je ook op de hoogte van al het projectnieuws en aankondigingen."
+            }
+        },
+        "faq6": {
+            "title": "Hoe werkt $BTCBULL staken?",
+            "description": {
+                "text": "BTC Bull is gebouwd op Ethereum en beveiligd door smart contracts, met staken mogelijk gemaakt door",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": "technologie. Een toewijzing van $BTCBULL-tokens is gereserveerd voor stakingbeloningen. Door je $BTCBULL-tokens naar het stakingcontract te sturen, kun je variabele APY verdienen en worden ze vergrendeld tot het einde van de Community Sale. Gestakete tokens kunnen 7 dagen na activatie van claimen worden opgenomen."
+            }
+        },
+        "faq7": {
+            "title": "Wanneer ontvang ik mijn $BTCBULL tokens?",
+            "description": {
+                "title": "Het kopen van $BTCBULL in de Community Sale garandeert je toewijzing via de veilige",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "widget. Deze tokens kunnen via de officiële website worden geclaimd zodra de Community Sale is voltooid. Als je $BTCBULL koopt via de",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "mobiele app, profiteer je van volledige integratievoordelen zoals direct claimen, toegang tot je saldo en live prijzen tijdens de tokenverkoop, en directe DEX-handel bij lancering."
+            }
+        }
+    },
+    "staking": {
+        "title": "Stake BTCBULL Voor Passieve Beloningen",
+        "description": "De verdeling van BTCBULL-tokenbeloningen vindt plaats met een snelheid van 399,54 BTCBULL-tokens per ETH-block. Deze beloningen worden ontgrendeld en zijn beschikbaar voor opname 7 dagen nadat het claimen live is gegaan.",
+        "tokenstaked": {
+            "token": {
+                "first": "Jouw Tokens",
+                "second": "Gestaked"
+            },
+            "available": {
+                "first": "Beschikbaar",
+                "second": "Om te Staken"
+            },
+            "button": "Koop en Stake"
+        },
+        "poor": {
+            "yourpoor": "Jouw % van de pool",
+            "totalpool": "Totale Stakingpool",
+            "button": "Tokens Ontstaken"
+        },
+        "estimate": {
+            "title": {
+                "first": "Geschatte",
+                "second": "Beloningen"
+            },
+            "list": {
+                "first": "Snelheid is dynamisch",
+                "second": "Maandelijks = Beloningen % / 12",
+                "third": "Dagelijks = Beloningen % / 365"
+            }
+        },
+        "rewards": {
+            "title": "Huidige Beloningen",
+            "toptext": "per eth block"
+        },
+        "totlarewards": {
+            "title": "Totale Beloningen",
+            "button": "Claim Beloningen"
+        },
+        "totalsupply": "Totale Voorraad"
+    },
+    "footer": {
+        "terms": "Gebruiksvoorwaarden",
+        "cookies": "Cookies",
+        "privacy": "Privacybeleid",
+        "description": "Disclaimer: BTC Bull Token is een speculatief mememunt-activum dat gekoppeld is aan de sociale en marktwaarde van Bitcoin. De cryptomarkt brengt het risico met zich mee dat je je volledige kapitaal verliest. Niets op deze website is financieel advies. DYOR en HODL naar $1M!"
+    },
+    "modal": {
+        "info": {
+            "first": "Je gekochte saldo is het totale aantal tokens dat je hebt gekocht met de verbonden wallet. Dit omvat alle gestakete en niet-gestakete tokens.",
+            "second": "Je stakebare saldo is het aantal tokens dat je hebt gekocht en nog kunt staken in ons smart contract voor dynamische APY zolang de voorverkoop actief is.",
+            "third": "BTCBULL-stakingbeloningen worden verdeeld met een snelheid van 399,54 BTCBULL per ETH-block. Jouw percentage van de pool bepaalt welk percentage van de 399,54 BTCBULL-tokens je ontvangt.",
+            "fourth": "Claimen is nog niet live"
+        },
+        "walletmodal": {
+            "title": "Wallet Verbinden",
+            "description": {
+                "start": "Als je al een wallet hebt, kies dan je gewenste wallet uit de onderstaande opties. Heb je nog geen wallet? Download dan ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "om te beginnen."
+            },
+            "button": "Ik heb geen wallet"
+        },
+        "needwallet": {
+            "title": "Wallet Nodig?",
+            "description": {
+                "first": "Best Wallet is een gebruiksvriendelijke app",
+                "second": "die het eenvoudig maakt om onze token te kopen.",
+                "third": "Volg de onderstaande stappen om te beginnen."
+            },
+            "button": "Download Best Wallet",
+            "step1": {
+                "first": "Scan de QR-code om de",
+                "second": "Best Wallet-app te downloaden"
+            },
+            "step2": "Maak een account aan",
+            "step3": "Koop in-app met kaart of crypto"
+        },
+        "widthdraw": {
+            "title": "Tokens Ontstaken",
+            "description": "Jouw Gestakete Tokens",
+            "cancel": "Annuleren",
+            "widthdraw": "Opnemen"
+        }
+    },
+    "trust": {
+        "title": "Miljoonien luottama vuodesta 2021",
+        "rated": "Arvostellut",
+        "tokenscoretitle": "Bull Tokenin luottamuspisteet",
+        "liquidity": "Likviditeetti",
+        "scale": "Mittakaava",
+        "cybersecurity": "Kyberturvallisuus",
+        "apicoverage": "API-kattavuus",
+        "team": "Tiimi",
+        "incident": "Tapaus",
+        "ror": "Tuotto"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Pisteet"
+        },
+        "description": "TrustNet-pisteet arvioivat kryptoprojekteja auditointitulosten, turvallisuuden, KYC-varmennuksen ja sosiaalisen median näkyvyyden perusteella. Tämä pistemäärä tarjoaa nopean ja läpinäkyvän näkymän projektin uskottavuuteen, auttaen käyttäjiä tekemään harkittuja päätöksiä Web3-maailmassa.",
+        "lowlebel": "Heikko",
+        "highlebel": "Erinomainen"
+    }
+}

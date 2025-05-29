@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Staking",
+        "about": "Sobre",
+        "how to buy": "Como Comprar",
+        "tokenomics": "Tokenomics",
+        "faq": "Perguntas Frequentes",
+        "whitepaper": "Whitepaper",
+        "buynow": "Compre Agora"
+    },
+    "hero": {
+        "title1": "A MELHOR PRÉ-VENDA",
+        "title2": " CRIPTO DO BITCOIN",
+        "description": "O BTC Bull Token é a força imparável que empurra o Bitcoin rumo a $1M+! Compre $BTCBULL e ganhe Bitcoin à medida que o BTC se torna o ativo número 1 do mundo!",
+        "timingtitle": {
+            "first": "Compre",
+            "second": "Token",
+            "third": "Na Pré-venda Agora!"
+        },
+        "day": "Dias",
+        "hours": "Horas",
+        "minute": "Minutos",
+        "second": "Segundos",
+        "raised": "USDT Arrecadado: $6,311,467.59 / $7,332,195",
+        "purchased": "Seus $BTCBULL comprados = 0",
+        "stakeable": "Seus $BTCBULL para staking = 0",
+        "buywithcard": "Compre com Cartão",
+        "buywithcrypto": "Compre com Cripto",
+        "nowallet": "Ainda não tem uma carteira?",
+        "poweredby": "Desenvolvido por",
+        "featuredin": {
+            "first": "Destaque",
+            "second": "Em"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "O Meme Coin",
+            "second": "Oficial do Bitcoin"
+        },
+        "description": "O Bitcoin é o ativo com melhor desempenho da história, com um retorno médio anual de 230% – valorização superior a 200 milhões por cento desde o início. Agora embarque na jornada da sua vida enquanto o BTC Bull avança rumo aos $250K e além!",
+        "buybutton": "Compre Agora",
+        "component": {
+            "first": {
+                "title": "Ganhe Airdrops de Bitcoin!",
+                "description": "Segure tokens $BTCBULL para receber airdrops de BTC à medida que o preço do maior ativo do mundo sobe! Um enorme airdrop de $BTCBULL também aguarda os holders mais fortes quando o BTC atingir $250.000, proporcional à sua compra na Community Sale."
+            },
+            "second": {
+                "title": "Marcos de Queima de Token",
+                "description": "O BTC Bull recompensa os holders à medida que o Bitcoin sobe. A cada aumento de $25K no BTC, queimamos uma parte do fornecimento de tokens $BTCBULL ou distribuímos BTC aos nossos holders fiéis. Queimamos e subimos – e repetimos!"
+            },
+            "third": {
+                "title": "Faça Staking para Ganhar",
+                "description": "O BTC Bull Token foi projetado para recompensar os crentes de todas as formas. Construído no Ethereum com staking de alto APY em contrato inteligente seguro, as recompensas $BTCBULL serão distribuídas durante toda a Community Sale."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Roteiro",
+        "description": "O BTC Bull traz glória e recompensas para todos os crentes. No caminho inevitável rumo ao BTC acima de $1 milhão, o BTC Bull queimará o fornecimento de tokens conforme o preço do BTC sobe – e distribuirá BTC aos holders mais fiéis! Além disso, um enorme airdrop de $BTCBULL aos $250.000 do BTC!",
+        "milestone": {
+            "title": "Marco do Projeto",
+            "first": "Pré-venda do $BTCBULL!",
+            "second": "Queima de Tokens!",
+            "third": "Airdrop de BTC!",
+            "forth": "Queima de Tokens!",
+            "fifth": "Airdrop de BTC!",
+            "six": "Queima de Tokens!",
+            "seven": "Airdrop de $BTCBULL!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Ganhe Bitcoin Grátis",
+            "second": "Com o Token Completo!"
+        },
+        "description": "A comunidade do BTC Bull tem uma mega oportunidade de ganhar Bitcoin grátis! Basta segurar seus tokens $BTCBULL na Best Wallet para receber airdrops diretos de BTC! Você pode baixar a Best Wallet hoje ou importar sua carteira existente.",
+        "findoutbutton": "Saiba Mais",
+        "why": "Por que",
+        "description1": "Para recompensar a comunidade BTC Bull em BTC, precisávamos de uma carteira com recursos avançados. A Best Wallet é uma carteira multichain integrada com nossa Community Sale, permitindo distribuir BTC diretamente às carteiras dos compradores via o app Best Wallet. Baixe hoje para começar a ganhar Bitcoin grátis!"
+    },
+    "presale": {
+        "title": {
+            "first": "Como comprar",
+            "second": "A Melhor Pré-venda Cripto do BTC",
+            "step": {
+                "step1": {
+                    "first": "Passo 1:",
+                    "description1": "Para aproveitar o BTC Bull e o bull run do Bitcoin, você precisa de uma carteira DeFi como MetaMask, Trust ou",
+                    "walletLink": "Best Wallet",
+                    "description2": "Conecte-a ao widget de pré-venda no topo desta página."
+                },
+                "step2": {
+                    "first": "Passo 2:",
+                    "description1": "Tenha ETH ou USDT disponíveis. Faça um depósito ou compre cripto diretamente na",
+                    "walletLink": "Best Wallet",
+                    "description2": "para financiar sua compra de $BTCBULL. Certifique-se de ter ETH suficiente para pagar as taxas de gás."
+                },
+                "step3": {
+                    "first": "Passo 3:",
+                    "description1": "O staking está disponível na Ethereum para aumentar seus holdings de $BTCBULL. Se desejar fazer staking, siga as instruções no widget. O APY é dinâmico e pode mudar com o tempo.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "Passo 4:",
+                    "description1": "Após completar sua compra, seu saldo de tokens $BTCBULL será exibido no widget de compra. Esses tokens poderão ser reivindicados assim que a pré-venda do BTC Bull encerrar ou expirar.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomics",
+        "bullfund": {
+            "bull": "Touro",
+            "fund": "Fundo"
+        },
+        "milestoneburnfund": {
+            "milestone": "Queima de Marcos",
+            "burnfund": "Fundo"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Staking",
+            "distribution": "Distribuição"
+        },
+        "exchange": {
+            "exchange": "Exchange",
+            "liquidify": "Liquidez"
+        },
+        "marketing": {
+            "pr": "PR e",
+            "marketing": "Marketing"
+        },
+        "totalsupply": "Oferta Total",
+        "tokenaddress": "Endereço do Token",
+        "copied": "Copiado para a área de transferência"
+    },
+    "bullish": {
+        "title": {
+            "first": "Notícias",
+            "second": "Otimistas do Bitcoin"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Perguntas",
+            "second": "Frequentes"
+        },
+        "faq1": {
+            "title": "O que é o BTC Bull Token?",
+            "description": "BTC Bull Token é um meme coin criado para liderar a investida do Bitcoin rumo aos $250.000 e além. O BTC Bull não se intimida com nenhuma força contrária ao seu crescimento e ambição de ser o melhor ativo de investimento do mundo. Participe dessa pré-venda épica e junte-se à revolução cripto rumo ao topo!"
+        },
+        "faq2": {
+            "title": "Por que devo comprar a pré-venda de $BTCBULL?",
+            "description": "BTC Bull é a jogada definitiva para o próximo ciclo de alta do Bitcoin, tornando o $BTCBULL uma das melhores pré-vendas cripto de 2025. Ele é um meme coin com uma comunidade apaixonada que representa o touro dentro de todos nós. Mesmo BTC a $150K é FUD aqui — acreditamos muito mais. Crescemos junto com o BTC!"
+        },
+        "faq3": {
+            "title": "Posso realmente ganhar airdrops gratuitos de Bitcoin?",
+            "description": "Claro! Mantenha $BTCBULL na Best Wallet e você receberá airdrops de BTC quando o preço do Bitcoin atingir $150.000 e $200.000. Os airdrops serão enviados para o seu endereço BTC na Best Wallet, com valores proporcionais à sua compra na Community Sale."
+        },
+        "faq4": {
+            "title": "Isso é uma torneira de Bitcoin grátis ou um airdrop?",
+            "description": "Não exatamente. Uma torneira de BTC dá pequenas quantias em intervalos. O BTC Bull oferece airdrops gratuitos para quem possuir $BTCBULL. Basta manter seus tokens na Best Wallet ou importar a carteira usada na compra para participar."
+        },
+        "faq5": {
+            "title": "Quais são as redes sociais e suporte do BTC Bull?",
+            "description": {
+                "text": "Siga o BTC Bull no",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "e",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "para se juntar à comunidade e acompanhar novidades e anúncios do projeto."
+            }
+        },
+        "faq6": {
+            "title": "Como funciona o staking do $BTCBULL?",
+            "description": {
+                "text": "BTC Bull é construído na Ethereum e protegido por contratos inteligentes, com staking via",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": ". Um lote de tokens é reservado para recompensas de staking. Ao enviar seus tokens ao contrato de staking, você recebe APY variável e os bloqueia até o fim da pré-venda. Os tokens podem ser retirados 7 dias após o início do período de claim."
+            }
+        },
+        "faq7": {
+            "title": "Quando receberei meus tokens $BTCBULL?",
+            "description": {
+                "title": "Comprar $BTCBULL na Community Sale garante sua alocação segura via o",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "widget. Os tokens poderão ser reivindicados no site oficial após o término da pré-venda. Se você comprar via",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "terá benefícios como visualização de saldo, preços em tempo real e negociação direta no DEX após o lançamento."
+            }
+        }
+    },
+    "staking": {
+        "title": "Faça Staking de BTCBULL para Recompensas Passivas",
+        "description": "As recompensas de staking serão distribuídas a uma taxa de 399.54 tokens BTCBULL por bloco ETH. Essas recompensas poderão ser retiradas 7 dias após o início do claim.",
+        "tokenstaked": {
+            "token": {
+                "first": "Seus Tokens",
+                "second": "em Staking"
+            },
+            "available": {
+                "first": "Disponíveis",
+                "second": "Para Staking"
+            },
+            "button": "Comprar e Fazer Staking"
+        },
+        "poor": {
+            "yourpoor": "Sua % da pool",
+            "totalpool": "Pool Total de Staking",
+            "button": "Desfazer Staking"
+        },
+        "estimate": {
+            "title": {
+                "first": "Recompensas",
+                "second": "Estimadas"
+            },
+            "list": {
+                "first": "Taxa é dinâmica",
+                "second": "Mensal = Recompensas % / 12",
+                "third": "Diário = Recompensas % / 365"
+            }
+        },
+        "rewards": {
+            "title": "Recompensas Atuais",
+            "toptext": "por bloco ETH"
+        },
+        "totlarewards": {
+            "title": "Recompensas Totais",
+            "button": "Reivindicar Recompensas"
+        },
+        "totalsupply": "Oferta Total"
+    },
+    "footer": {
+        "terms": "Termos de Serviço",
+        "cookies": "Cookies",
+        "privacy": "Política de Privacidade",
+        "description": "Aviso legal: BTC Bull Token é um ativo especulativo de meme coin ligado ao valor social e de mercado do Bitcoin. O mercado de criptomoedas envolve riscos e você pode perder todo o seu capital. Nada neste site é aconselhamento financeiro. Faça sua própria pesquisa (DYOR) e HODL até $1M!"
+    },
+    "modal": {
+        "info": {
+            "first": "Seu saldo comprado é o total de tokens adquiridos com a carteira conectada, incluindo tokens em staking e livres.",
+            "second": "Seu saldo disponível para staking é a quantidade de tokens que ainda podem ser colocados em staking durante a pré-venda.",
+            "third": "As recompensas de staking são distribuídas a uma taxa de 399.54 BTCBULL por bloco ETH. Sua porcentagem na pool define sua parte.",
+            "fourth": "A reivindicação ainda não está disponível"
+        },
+        "walletmodal": {
+            "title": "Conectar Carteira",
+            "description": {
+                "start": "Se já possui uma carteira, selecione a opção desejada abaixo. Caso contrário, baixe a",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "para começar."
+            },
+            "button": "Não tenho uma carteira"
+        },
+        "needwallet": {
+            "title": "Precisa de uma Carteira?",
+            "description": {
+                "first": "Best Wallet é um app amigável para iniciantes",
+                "second": "que facilita a compra do nosso token.",
+                "third": "Siga os passos abaixo para começar."
+            },
+            "button": "Baixar Best Wallet",
+            "step1": {
+                "first": "Escaneie o QR code para",
+                "second": "baixar o app Best Wallet"
+            },
+            "step2": "Crie uma conta",
+            "step3": "Compre com cartão ou cripto no app"
+        },
+        "widthdraw": {
+            "title": "Desfazer Staking",
+            "description": "Seus Tokens em Staking",
+            "cancel": "Cancelar",
+            "widthdraw": "Retirar"
+        }
+    },
+    "trust": {
+        "title": "Confiado por Milhões Desde 2021",
+        "rated": "Avaliado por",
+        "tokenscoretitle": "Pontuação de Confiança do Bull Token",
+        "liquidity": "Liquidez",
+        "scale": "Escala",
+        "cybersecurity": "Cibersegurança",
+        "apicoverage": "Cobertura da API",
+        "team": "Equipe",
+        "incident": "Incidente",
+        "ror": "Retorno"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Pontuação"
+        },
+        "description": "A Pontuação TrustNet avalia projetos cripto com base em resultados de auditorias, segurança, verificação KYC e presença nas redes sociais. Essa pontuação oferece uma visão rápida e transparente da credibilidade de um projeto, ajudando os usuários a tomarem decisões informadas no espaço Web3.",
+        "lowlebel": "Fraco",
+        "highlebel": "Excelente"
+    }
+}

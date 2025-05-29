@@ -1,0 +1,37 @@
+.faq-content {
+    animation: slideDown 0.4s ease-in-out forwards;
+    transform-origin: top;
+    overflow: hidden;
+}
+
+.faq-content.closing {
+    animation: slideUp 0.4s ease-in-out forwards;
+}
+
+@keyframes slideDown {
+    0% {
+        opacity: 0;
+        max-height: 0;
+        transform: scaleY(0);
+    }
+
+    100% {
+        opacity: 1;
+        max-height: 1000px;
+        transform: scaleY(1);
+    }
+}
+
+@keyframes slideUp {
+    0% {
+        opacity: 1;
+        max-height: 1000px;
+        transform: scaleY(1);
+    }
+
+    100% {
+        opacity: 0;
+        max-height: 0;
+        transform: scaleY(0);
+    }
+}

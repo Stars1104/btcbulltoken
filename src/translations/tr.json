@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "Stake Etme",
+        "about": "Hakkında",
+        "how to buy": "Nasıl Satın Alınır",
+        "tokenomics": "Tokenomik",
+        "faq": "SSS",
+        "whitepaper": "Whitepaper",
+        "buynow": "Şimdi Satın Al"
+    },
+    "hero": {
+        "title1": "BİTCOİN'İN EN İYİ",
+        "title2": " KRİPTO ÖN SATIŞI",
+        "description": "BTC Bull Token, Bitcoin’i 1 Milyon Doların üzerine iten durdurulamaz güçtür! $BTCBULL satın al ve Bitcoin kazanmaya başla, çünkü BTC dünyanın bir numaralı varlığı olmaya ilerliyor!",
+        "timingtitle": {
+            "first": "Satın Al",
+            "second": "Token",
+            "third": "Şimdi Ön Satışta!"
+        },
+        "day": "Gün",
+        "hours": "Saat",
+        "minute": "Dakika",
+        "second": "Saniye",
+        "raised": "Toplanan USDT: $6.311.467,59 / $7.332.195",
+        "purchased": "Satın aldığın $BTCBULL = 0",
+        "stakeable": "Stake edilebilir $BTCBULL = 0",
+        "buywithcard": "Kartla Satın Al",
+        "buywithcrypto": "Kripto ile Satın Al",
+        "nowallet": "Cüzdanın yok mu?",
+        "poweredby": "Destekleyen",
+        "featuredin": {
+            "first": "Yer Aldığı",
+            "second": "Platformlar"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "Resmi",
+            "second": "Bitcoin Meme Coin’i"
+        },
+        "description": "Bitcoin, %230 yıllık ortalama getiri ile tarihin en iyi performans gösteren varlığıdır – kurulduğundan bu yana %200 milyondan fazla arttı. Şimdi BTC Bull ile 250.000 $ ve ötesine doğru hayatının yolculuğuna katıl!",
+        "buybutton": "Şimdi Satın Al",
+        "component": {
+            "first": {
+                "title": "Bitcoin Airdrop’ları Kazan!",
+                "description": "$BTCBULL tokenlarını tutarak, varlık fiyatı arttıkça BTC airdrop’ları al! BTC 250.000 $’a ulaştığında, elindeki token miktarına ve Topluluk Satışındaki satın alma miktarına göre büyük bir $BTCBULL airdrop’u seni bekliyor."
+            },
+            "second": {
+                "title": "Token Yakma Hedefleri",
+                "description": "BTC Bull, Bitcoin’in fiyatı arttıkça hodler’ları ödüllendirmeyi hedefliyor. Her 25.000 $’lık BTC artışında ya $BTCBULL arzının bir kısmı yakılacak ya da sadık yatırımcılara BTC airdrop’u yapılacak. Yakıyoruz, yükseliyoruz, tekrar ediyoruz!"
+            },
+            "third": {
+                "title": "Stake ile Kazan",
+                "description": "BTC Bull Token, inananları her şekilde ödüllendirmek için tasarlanmıştır. Ethereum üzerine inşa edilmiş güvenli bir akıllı sözleşme ile yüksek APY stake imkanı sunar. $BTCBULL ödülleri, Topluluk Satışı süresince stake edenlere verilecektir."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "Yol Haritası",
+        "description": "BTC Bull, tüm inananlara şan ve ödüller getiriyor. BTC’nin kaçınılmaz bir şekilde 1 milyon doları aşacağı yolda, BTC Bull token arzını yakacak ve en güçlü hodler’lara BTC airdrop’u yapacak! Ayrıca, 250.000 $ BTC’de büyük bir $BTCBULL airdrop’u da geliyor!",
+        "milestone": {
+            "title": "Proje Aşamaları",
+            "first": "$BTCBULL Ön Satışı!",
+            "second": "Token Yakımı!",
+            "third": "BTC Airdrop’u!",
+            "forth": "Token Yakımı!",
+            "fifth": "BTC Airdrop’u!",
+            "six": "Token Yakımı!",
+            "seven": "$BTCBULL Airdrop’u!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "Ücretsiz Bitcoin Kazan",
+            "second": "Token ile Birlikte!"
+        },
+        "description": "BTC Bull topluluğu, ücretsiz Bitcoin kazanmak için büyük bir fırsata sahip! $BTCBULL tokenlarını Best Wallet’ta tutarak doğrudan BTC airdrop’ları alabilirsin! Best Wallet’ı bugün indir ya da mevcut cüzdanını içe aktar.",
+        "findoutbutton": "Daha Fazla Bilgi",
+        "why": "Neden",
+        "description1": "BTC Bull topluluğunu BTC ile ödüllendirmek için gelişmiş özelliklere sahip bir cüzdan ortağına ihtiyacımız vardı. Best Wallet, Topluluk Satışı ile entegre edilmiş çok zincirli bir kripto cüzdanıdır ve BTC’yi tüm ön satış alıcılarına Best Wallet mobil uygulaması üzerinden airdrop yapmamızı sağlar. Bugün indir, ücretsiz Bitcoin airdrop’larını kaçırma!"
+    },
+    "presale": {
+        "title": {
+            "first": "Nasıl Satın Alınır",
+            "second": "BTC’nin En İyi Kripto Ön Satışı",
+            "step": {
+                "step1": {
+                    "first": "1. Adım:",
+                    "description1": "BTC Bull ve Bitcoin boğa koşusundan faydalanmak için MetaMask, Trust veya",
+                    "walletLink": "Best Wallet",
+                    "description2": "gibi bir DeFi kripto cüzdanına ihtiyacın var. Bu sayfanın üst kısmındaki ön satış widget’ına bağlan."
+                },
+                "step2": {
+                    "first": "2. Adım:",
+                    "description1": "Devam etmek için ETH veya USDT bulundur. Yatırım yap ya da doğrudan",
+                    "walletLink": "Best Wallet",
+                    "description2": "üzerinden kripto satın alarak $BTCBULL alımını gerçekleştir. Gaz ücretlerini karşılamak için yeterli ETH bıraktığından emin ol."
+                },
+                "step3": {
+                    "first": "3. Adım:",
+                    "description1": "Ethereum üzerinde staking, $BTCBULL varlıklarını artırmak için kullanılabilir. Stake etmek istersen, widget’taki yönergeleri takip et. APY dinamiktir ve zamanla değişebilir.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "4. Adım:",
+                    "description1": "Satın alımını tamamladıktan sonra $BTCBULL token bakiyen satın alma widget’ında görünecektir. Bu tokenlar, BTC Bull ön satışı tamamlandıktan veya süresi dolduktan sonra talep edilebilir hale gelir.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "Tokenomik",
+        "bullfund": {
+            "bull": "Boğa",
+            "fund": "Fonu"
+        },
+        "milestoneburnfund": {
+            "milestone": "Kilometre Taşı Yakımı",
+            "burnfund": "Fonu"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Boğa",
+            "airdrop": "Airdrop"
+        },
+        "staking": {
+            "staking": "Stake Etme",
+            "distribution": "Dağıtım"
+        },
+        "exchange": {
+            "exchange": "Borsa",
+            "liquidify": "Likidite"
+        },
+        "marketing": {
+            "pr": "Halkla İlişkiler ve",
+            "marketing": "Pazarlama"
+        },
+        "totalsupply": "Toplam Arz",
+        "tokenaddress": "Token Adresi",
+        "copied": "Panoya kopyalandı"
+    },
+    "bullish": {
+        "title": {
+            "first": "Boğa",
+            "second": "Bitcoin Haberleri"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "Token",
+            "second": "SSS"
+        },
+        "faq1": {
+            "title": "BTC Bull Token nedir?",
+            "description": "BTC Bull Token, Bitcoin'in 250.000$'a ve ötesine giden yükselişini desteklemek için oluşturulmuş bir meme coin'dir. BTC Boğası, dünyanın en iyi yatırım varlığı olma yolunda hiçbir engelden korkmaz. Bu tarihi kripto ön satışına katılın, geçmişteki tüm engelleri geride bırakın, milyonlarca yeni destekçi toplayın ve altının bile önüne geçerek bir numaralı varlık olma hedefimize ulaşalım!"
+        },
+        "faq2": {
+            "title": "$BTCBULL kripto ön satışını neden satın almalıyım?",
+            "description": "BTC Bull, Bitcoin (BTC) için gelen bir sonraki büyük boğa döngüsü için en iyi seçenektir ve bu da $BTCBULL'u 2025'in en iyi kripto ön satışı haline getirir. $BTCBULL, hepimizdeki boğayı destekleyen tutkulu bir topluluğa sahip bir meme coindir. Bu, 150.000$ BTC bile FUD'dur anlamına gelir — yeterince boğa değilsiniz! Burada BTC Bull topluluğunu büyütüyoruz, BTC yükseldikçe biz de yükseliyoruz ve dünyanın en iyi varlık sınıfının ödüllerini topluyoruz."
+        },
+        "faq3": {
+            "title": "Gerçekten ücretsiz Bitcoin airdrop'ları kazanabilir miyim?",
+            "description": "Hiç bir boğa tereddüt eder mi? Elbette hayır! $BTCBULL tokenlarını Best Wallet'ta tutarsanız, Bitcoin fiyatı 150.000$ ve 200.000$'a ulaştığında BTC airdrop'ları kazanırsınız. BTC airdrop'larınız Best Wallet’taki BTC adresinize gönderilecektir ve tutar, Community Sale sırasında satın aldığınız $BTCBULL miktarına göre ağırlıklandırılacaktır."
+        },
+        "faq4": {
+            "title": "Bu ücretsiz bir Bitcoin musluğu mu yoksa Bitcoin airdrop’u mu?",
+            "description": "Tam olarak değil. Ücretsiz bir Bitcoin musluğu, belirli aralıklarla biraz BTC kazanmanıza olanak tanır. BTC Bull, $BTCBULL token sahiplerine ücretsiz Bitcoin airdrop'ları sunmaktadır. Tek yapmanız gereken tokenlarınızı Best Wallet'ta tutmak veya satın aldığınız cüzdanı Best Wallet’a aktarmak."
+        },
+        "faq5": {
+            "title": "BTC Bull sosyal medya ve destek kanalları nedir?",
+            "description": {
+                "text": "BTC Bull'u takip edin",
+                "twitter": {
+                    "text": "X (Twitter)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "ve",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "üzerinden diğer tüm Bitcoin Boğalarıyla buluşun ve BTC’nin yükselişini kutlayın. Buradan tüm proje haberleri ve duyurularından da haberdar olabilirsiniz."
+            }
+        },
+        "faq6": {
+            "title": "$BTCBULL stake etme nasıl çalışır?",
+            "description": {
+                "text": "BTC Bull, Ethereum üzerine inşa edilmiştir ve akıllı sözleşmelerle güvence altına alınmıştır, staking işlemi",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": "teknolojisi ile desteklenmektedir. Stake ödülleri için ayrılmış bir $BTCBULL tahsisi bulunmaktadır. Bu nedenle $BTCBULL tokenlarınızı staking sözleşmesine göndererek değişken APY kazanabilir ve tokenlarınızı Community Sale sona erene kadar kilitleyebilirsiniz. Stake edilen tokenlar, talep dönemi başladıktan 7 gün sonra çekilebilir."
+            }
+        },
+        "faq7": {
+            "title": "$BTCBULL tokenlarımı ne zaman alacağım?",
+            "description": {
+                "title": "Community Sale sırasında $BTCBULL satın almak size güvenli bir şekilde tahsis garantisi verir",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "widget aracılığıyla. Bu tokenlar, resmi web sitesi üzerinden Community Sale sona erdikten sonra talep edilebilir. Eğer $BTCBULL’u",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "mobil uygulaması aracılığıyla satın alırsanız, doğrudan token talebi, bakiye görüntüleme, canlı fiyatlar ve DEX üzerinden anında işlem gibi tüm entegrasyon avantajlarından faydalanırsınız."
+            }
+        }
+    },
+    "staking": {
+        "title": "BTCBULL Stake Ederek Pasif Gelir Kazanın",
+        "description": "BTCBULL token ödüllerinin dağıtımı, ETH blok başına 399.54 BTCBULL oranında gerçekleşecektir. Bu ödüller, token talep süreci başladıktan 7 gün sonra çekilebilir hale gelecektir.",
+        "tokenstaked": {
+            "token": {
+                "first": "Stake Edilen",
+                "second": "Tokenlarınız"
+            },
+            "available": {
+                "first": "Stake Edilebilir",
+                "second": "Bakiyeniz"
+            },
+            "button": "Satın Al ve Stake Et"
+        },
+        "poor": {
+            "yourpoor": "Havuzdaki % Payınız",
+            "totalpool": "Toplam Stake Havuzu",
+            "button": "Tokenları Çek"
+        },
+        "estimate": {
+            "title": {
+                "first": "Tahmini",
+                "second": "Ödüller"
+            },
+            "list": {
+                "first": "Oran değişkendir",
+                "second": "Aylık = Ödül % / 12",
+                "third": "Günlük = Ödül % / 365"
+            }
+        },
+        "rewards": {
+            "title": "Mevcut Ödüller",
+            "toptext": "eth blok başına"
+        },
+        "totlarewards": {
+            "title": "Toplam Ödüller",
+            "button": "Ödülleri Talep Et"
+        },
+        "totalsupply": "Toplam Arz"
+    },
+    "footer": {
+        "terms": "Hizmet Şartları",
+        "cookies": "Çerezler",
+        "privacy": "Gizlilik Politikası",
+        "description": "Feragatname: BTC Bull Token, Bitcoin'in sosyal ve piyasa değeri ile bağlantılı spekülatif bir meme coin varlığıdır. Kripto para piyasası, tüm sermayenizi kaybetme riski taşır. Bu web sitesinde yer alan hiçbir şey finansal tavsiye değildir. Kendi araştırmanızı yapın ve $1M’ye HODL edin!"
+    },
+    "modal": {
+        "info": {
+            "first": "Satın alınan bakiyeniz, bağlı cüzdan kullanılarak satın aldığınız toplam token miktarıdır. Bu, stake edilmiş ve edilmemiş tüm tokenları içerir.",
+            "second": "Stake edilebilir bakiyeniz, stake işlemi devam ederken stake edilebilecek token miktarınızdır.",
+            "third": "BTCBULL staking ödülleri, ETH blok başına 399.54 BTCBULL oranında dağıtılır. Havuzdaki yüzdelik payınız, bu 399.54 BTCBULL’dan ne kadar alacağınızı belirler.",
+            "fourth": "Talep henüz aktif değil"
+        },
+        "walletmodal": {
+            "title": "Cüzdan Bağla",
+            "description": {
+                "start": "Zaten bir cüzdanınız varsa, aşağıdaki seçeneklerden birini seçin. Eğer bir cüzdanınız yoksa ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "indirerek başlayabilirsiniz."
+            },
+            "button": "Cüzdanım yok"
+        },
+        "needwallet": {
+            "title": "Cüzdana mı ihtiyacınız var?",
+            "description": {
+                "first": "Best Wallet, kullanıcı dostu bir uygulamadır",
+                "second": "ve tokenımızı satın almayı kolaylaştırır.",
+                "third": "Başlamak için aşağıdaki adımları izleyin."
+            },
+            "button": "Best Wallet’ı İndir",
+            "step1": {
+                "first": "QR kodunu tarayın ve",
+                "second": "Best Wallet uygulamasını indirin"
+            },
+            "step2": "Hesap oluşturun",
+            "step3": "Uygulama içi kredi kartı veya kripto ile satın alın"
+        },
+        "widthdraw": {
+            "title": "Tokenları Çek",
+            "description": "Stake Edilen Tokenlarınız",
+            "cancel": "İptal",
+            "widthdraw": "Çek"
+        }
+    },
+    "trust": {
+        "title": "2021'den Beri Milyonlarca Kişi Tarafından Güvenildi",
+        "rated": "Derecelendiren",
+        "tokenscoretitle": "Bull Token Güven Skoru",
+        "liquidity": "Likidite",
+        "scale": "Ölçek",
+        "cybersecurity": "Siber Güvenlik",
+        "apicoverage": "API Kapsamı",
+        "team": "Ekip",
+        "incident": "Olay",
+        "ror": "Getiri"
+    },
+    "trustnet": {
+        "title": {
+            "first": "TrustNet",
+            "second": "Skor"
+        },
+        "description": "TrustNet Skoru, kripto projelerini denetim sonuçları, güvenlik, KYC doğrulaması ve sosyal medya varlığına göre değerlendirir. Bu skor, bir projenin güvenilirliği hakkında hızlı ve şeffaf bir bakış sunarak kullanıcıların Web3 alanında bilinçli kararlar almasına yardımcı olur.",
+        "lowlebel": "Zayıf",
+        "highlebel": "Mükemmel"
+    }
+}

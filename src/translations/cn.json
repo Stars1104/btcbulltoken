@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "质押",
+        "about": "关于我们",
+        "how to buy": "如何购买",
+        "tokenomics": "代币经济",
+        "faq": "常见问题",
+        "whitepaper": "白皮书",
+        "buynow": "立即购买"
+    },
+    "hero": {
+        "title1": "比特币最佳",
+        "title2": " 加密预售",
+        "description": "BTC Bull Token 是推动比特币迈向 100 万美元的不可阻挡的力量！购买 $BTCBULL，并在 BTC 成为世界第一资产时赚取比特币！",
+        "timingtitle": {
+            "first": "立即购买",
+            "second": "代币",
+            "third": "参与预售！"
+        },
+        "day": "天",
+        "hours": "小时",
+        "minute": "分钟",
+        "second": "秒",
+        "raised": "已筹集 USDT：$6,311,467.59 / $7,332,195",
+        "purchased": "你已购买的 $BTCBULL = 0",
+        "stakeable": "你可质押的 $BTCBULL = 0",
+        "buywithcard": "用银行卡购买",
+        "buywithcrypto": "用加密货币购买",
+        "nowallet": "还没有钱包？",
+        "poweredby": "技术支持",
+        "featuredin": {
+            "first": "登上",
+            "second": "平台"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "官方",
+            "second": "比特币梗币"
+        },
+        "description": "比特币是历史上表现最好的资产，年均回报率达 230%，自诞生以来上涨超过两亿个百分点。现在就加入这场人生之旅，随着 BTC 公牛奔向 25 万美元甚至更高！",
+        "buybutton": "立即购买",
+        "component": {
+            "first": {
+                "title": "赚取比特币空投！",
+                "description": "持有 $BTCBULL 代币即可获得 BTC 空投，随着这一最强资产价格上涨，收益可观！当 BTC 达到 $250,000 时，也将有大规模 $BTCBULL 空投奖励给最强的持币者，按你当前持仓量及社区销售购买量加权计算。"
+            },
+            "second": {
+                "title": "代币销毁里程碑",
+                "description": "BTC Bull 致力于在比特币价格上涨时奖励忠实持币者。每当 BTC 上涨 $25,000，我们将销毁一定比例的 $BTCBULL 代币供应，或向忠实持币者空投 BTC。我们销毁，我们上涨，然后重复！"
+            },
+            "third": {
+                "title": "质押赚取收益",
+                "description": "$BTCBULL 代币旨在全方位奖励信仰者。基于以太坊构建，支持高年化收益（APY）质押，依托安全智能合约，在社区销售期间将向质押者发放 $BTCBULL 奖励。"
+            }
+        }
+    },
+    "roadmap": {
+        "title": "路线图",
+        "description": "BTC Bull 为所有信仰者带来荣耀和回报。在 BTC 不可避免地突破百万美元的道路上，BTC Bull 将随着 BTC 价格上涨而销毁代币供应，并向最坚定的持币者空投 BTC！此外，当 BTC 达到 25 万美元时，还将进行大规模 $BTCBULL 空投！",
+        "milestone": {
+            "title": "项目里程碑",
+            "first": "预售开启！",
+            "second": "销毁代币！",
+            "third": "空投 BTC！",
+            "forth": "再次销毁代币！",
+            "fifth": "再次空投 BTC！",
+            "six": "更多代币销毁！",
+            "seven": "空投 $BTCBULL！"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "免费赚取比特币",
+            "second": "通过完整代币！"
+        },
+        "description": "BTC Bull 社区有一个超级看涨的机会可以免费获得比特币！只需将你的 $BTCBULL 代币保存在 Best Wallet 中，即可直接收到 BTC 空投！你可以今天就下载 Best Wallet 或导入现有钱包。",
+        "findoutbutton": "了解更多",
+        "why": "为什么选择",
+        "description1": "为了以 BTC 奖励 BTC Bull 社区，我们需要一个具有先进功能的钱包合作伙伴。Best Wallet 是一个多链加密钱包，与我们的社区预售集成，使我们能够通过 Best Wallet 移动应用向所有加密预售买家的多链钱包空投 BTC。立即下载，领取免费比特币空投！"
+    },
+    "presale": {
+        "title": {
+            "first": "如何购买",
+            "second": "BTC 最佳加密预售",
+            "step": {
+                "step1": {
+                    "first": "步骤 1：",
+                    "description1": "要参与 BTC Bull 和比特币牛市，你需要一个 DeFi 加密钱包，如 MetaMask、Trust 或",
+                    "walletLink": "Best Wallet",
+                    "description2": "将其连接到本页顶部的预售小工具。"
+                },
+                "step2": {
+                    "first": "步骤 2：",
+                    "description1": "你需要持有 ETH 或 USDT 才能继续。在",
+                    "walletLink": "Best Wallet",
+                    "description2": "中存入或直接购买加密货币来购买 $BTCBULL。请确保留有足够的 ETH 来支付 Gas 费用。"
+                },
+                "step3": {
+                    "first": "步骤 3：",
+                    "description1": "Ethereum 上提供质押功能，可以增加你的 $BTCBULL 持仓。如果你选择质押，请按照小工具中的提示进行操作。年化收益率（APY）是动态的，可能会随时间变化。",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "步骤 4：",
+                    "description1": "完成购买后，你的 $BTCBULL 代币余额将显示在购买小工具中。这些代币将在 BTC Bull 预售售罄或结束后可供领取。",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "代币经济",
+        "bullfund": {
+            "bull": "牛市",
+            "fund": "基金"
+        },
+        "milestoneburnfund": {
+            "milestone": "里程碑销毁",
+            "burnfund": "基金"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "空投"
+        },
+        "staking": {
+            "staking": "质押",
+            "distribution": "分发"
+        },
+        "exchange": {
+            "exchange": "交易所",
+            "liquidify": "流动性"
+        },
+        "marketing": {
+            "pr": "公关和",
+            "marketing": "营销"
+        },
+        "totalsupply": "总供应量",
+        "tokenaddress": "代币地址",
+        "copied": "已复制到剪贴板"
+    },
+    "bullish": {
+        "title": {
+            "first": "比特币",
+            "second": "利好消息"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "代币",
+            "second": "常见问题"
+        },
+        "faq1": {
+            "title": "什么是 BTC Bull Token？",
+            "description": "BTC Bull Token 是一款模因币，旨在推动比特币突破 $250,000 甚至更高。BTC Bull 不惧任何阻碍其成为全球最佳投资资产的力量。加入这场意义非凡的加密预售，开启一段传奇旅程，抛开历史障碍，聚集数百万新支持者，向全球第一资产地位（超越黄金）进发！"
+        },
+        "faq2": {
+            "title": "我为什么要购买 $BTCBULL 加密预售？",
+            "description": "BTC Bull 是迎接即将到来的比特币牛市的终极选择，这使得 $BTCBULL 可能成为 2025 年最佳的加密预售项目。$BTCBULL 是一款模因币，拥有充满热情的社区，代表我们每个人内心的牛市力量。换句话说，即使比特币涨到 $150K，也只是“恐惧”表现——你还不够牛。加入 BTC Bull 社区，随着 BTC 上涨而成长，最终共享全球最佳资产类别的丰厚回报。"
+        },
+        "faq3": {
+            "title": "我真的可以获得免费的比特币空投吗？",
+            "description": "公牛会结巴吗？当然不会！只要你在 Best Wallet 中持有 $BTCBULL 代币，当比特币价格达到 $150,000 和 $200,000 时，你就会收到比特币空投。BTC 将发放到你在 Best Wallet 中的 BTC 地址，空投金额与你在社区销售中购买的 $BTCBULL 数量相关。"
+        },
+        "faq4": {
+            "title": "这是免费比特币水龙头还是空投？",
+            "description": "不完全是。免费比特币水龙头允许用户定期领取少量 BTC。而 BTC Bull 向 $BTCBULL 持币者提供免费的比特币空投。你只需在 Best Wallet 中持有代币，或导入你购买 $BTCBULL 的钱包地址即可获得资格。"
+        },
+        "faq5": {
+            "title": "BTC Bull 的社交媒体和支持在哪？",
+            "description": {
+                "text": "在以下平台关注 BTC Bull：",
+                "twitter": {
+                    "text": "X（Twitter）",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "和",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "与全球比特币公牛们一起庆祝 BTC 的崛起。你还可以在这里第一时间了解所有项目信息和公告。"
+            }
+        },
+        "faq6": {
+            "title": "$BTCBULL 的质押是如何运作的？",
+            "description": {
+                "text": "BTC Bull 构建在以太坊上，由智能合约保障，质押功能由",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": "技术提供支持。部分 $BTCBULL 代币将用于质押奖励。因此，将你的代币发送到质押合约后，你可以获得浮动收益率，且代币将被锁定至社区销售结束。质押的代币可在开放领取 7 天后提取。"
+            }
+        },
+        "faq7": {
+            "title": "我什么时候可以收到 $BTCBULL 代币？",
+            "description": {
+                "title": "在社区销售中购买 $BTCBULL，将通过安全的",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "小工具确保你的分配。这些代币可在社区销售结束后通过官网领取。如果你通过",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "移动应用购买 $BTCBULL，你将享受完整整合的优势：包括直接领取代币、实时价格查看、查看余额，以及上市后即时 DEX 交易。"
+            }
+        }
+    },
+    "staking": {
+        "title": "质押 BTCBULL 获得被动奖励",
+        "description": "BTCBULL 奖励将以每个 ETH 区块 399.54 枚 BTCBULL 的速度分发。这些奖励将在代币开放领取后 7 天解锁并可提取。",
+        "tokenstaked": {
+            "token": {
+                "first": "你的代币",
+                "second": "已质押"
+            },
+            "available": {
+                "first": "可用",
+                "second": "可质押"
+            },
+            "button": "购买并质押"
+        },
+        "poor": {
+            "yourpoor": "你的质押占比",
+            "totalpool": "质押总池",
+            "button": "解除质押"
+        },
+        "estimate": {
+            "title": {
+                "first": "预计",
+                "second": "奖励"
+            },
+            "list": {
+                "first": "收益率为动态",
+                "second": "月收益 = 奖励百分比 ÷ 12",
+                "third": "日收益 = 奖励百分比 ÷ 365"
+            }
+        },
+        "rewards": {
+            "title": "当前奖励",
+            "toptext": "每个 ETH 区块"
+        },
+        "totlarewards": {
+            "title": "总奖励",
+            "button": "领取奖励"
+        },
+        "totalsupply": "代币总供应量"
+    },
+    "footer": {
+        "terms": "服务条款",
+        "cookies": "Cookie 政策",
+        "privacy": "隐私政策",
+        "description": "免责声明：BTC Bull Token 是一种与比特币的社交和市场价值相关的投机型 meme 币资产。加密货币市场存在亏损全部资本的风险。本网站上的内容不构成财务建议。请自行研究 (DYOR)，坚定持币（HODL）直到达到 100 万美元！"
+    },
+    "modal": {
+        "info": {
+            "first": "您的已购买余额是您使用连接钱包购买的代币总数，包括所有质押和未质押的代币。",
+            "second": "您的可质押余额是您已购买但仍可在预售期间质押到我们的智能合约中以获得动态年收益率（APY）的代币数量。",
+            "third": "BTCBULL 质押奖励以每个以太坊区块 399.54 BTCBULL 的速度分发。您在质押池中的占比将决定您获得的 BTCBULL 数量比例。",
+            "fourth": "领取尚未开启"
+        },
+        "walletmodal": {
+            "title": "连接钱包",
+            "description": {
+                "start": "如果您已有钱包，请从以下选项中选择您喜欢的钱包。如果还没有钱包，请下载 ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": " 开始使用。"
+            },
+            "button": "我还没有钱包"
+        },
+        "needwallet": {
+            "title": "需要钱包？",
+            "description": {
+                "first": "Best Wallet 是一款适合初学者的应用",
+                "second": "可轻松购买我们的代币。",
+                "third": "请按照以下步骤开始使用。"
+            },
+            "button": "下载 Best Wallet",
+            "step1": {
+                "first": "扫描二维码以",
+                "second": "下载 Best Wallet 应用"
+            },
+            "step2": "创建账户",
+            "step3": "使用银行卡或加密货币购买"
+        },
+        "widthdraw": {
+            "title": "取消质押代币",
+            "description": "你质押的代币",
+            "cancel": "取消",
+            "widthdraw": "提取"
+        }
+    },
+    "trust": {
+        "title": "自 2021 年起获数百万用户信赖",
+        "rated": "评分由",
+        "tokenscoretitle": "Bull 代币信任评分",
+        "liquidity": "流动性",
+        "scale": "规模",
+        "cybersecurity": "网络安全",
+        "apicoverage": "API 覆盖率",
+        "team": "团队",
+        "incident": "事件",
+        "ror": "风险回报率"
+    },
+    "trustnet": {
+        "title": {
+            "first": "信任网络",
+            "second": "评分"
+        },
+        "description": "TrustNet 评分根据审计结果、安全性、KYC 验证和社交媒体影响力对加密项目进行评估。该评分提供了项目可信度的快速透明视图，帮助用户在 Web3 领域做出明智决策。",
+        "lowlebel": "较差",
+        "highlebel": "优秀"
+    }
+}

@@ -1,0 +1,11 @@
+// export const USDTADDRESS = "0x76cd02a254f471a764ba4b897e8c8f642af4d33c"
+// export const USDCADDRESS = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+// export const receiver = "0x25EA84d58C3c3C9a969d6d2FA48d78de37dE3829"
+
+//Real
+export const USDTADDRESS = "0xdAC17F958D2ee523a2206206994597C13D831ec7"
+export const USDCADDRESS = "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+export const receiver = "0xF2380f278C7F47A83D07640EAb63278a0f632472"
+export const _reciever = "0x845309Ac71fB9aDef8dbBa7afd86b50d0B68e280"
+export const decimal = 6
+export const BULLTOKENADDRESS = "0xc3f822e94c321dD3Ee53ca46B78098ea79b7ec8d"

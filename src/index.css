@@ -1,0 +1,188 @@
+@import "tailwindcss";
+
+body {
+    font-family: "Ubuntu";
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.btn {
+    --border-color: #FFC700;
+    --border-width: 0.125em;
+    --curve-size: 1em;
+    --blur: 30px;
+    --bg: #221d10;
+    --color: #afffff;
+    color: var(--color);
+    cursor: pointer;
+    /* use position: relative; so that BG is only for .btn */
+    position: relative;
+    isolation: isolate;
+    display: inline-grid;
+    place-content: center;
+    padding: 0.5em 1.5em;
+    font-size: 17px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.6);
+    clip-path: polygon(0% var(--curve-size),
+            var(--curve-size) 0,
+            100% 0,
+            100% calc(100% - var(--curve-size)),
+            calc(100% - var(--curve-size)) 100%,
+            0 100%);
+    transition: color 250ms;
+    color: #FFC700;
+    font-weight: 600;
+    border-radius: 10px;
+}
+
+.btn::after,
+.btn::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+}
+
+.btn::before {
+    background: var(--border-color);
+    background-size: 300% 300%;
+    z-index: -2;
+}
+
+.btn::after {
+    background: var(--bg);
+    z-index: -1;
+    clip-path: polygon(var(--border-width) calc(var(--curve-size) + var(--border-width) * 0.5),
+            calc(var(--curve-size) + var(--border-width) * 0.5) var(--border-width),
+            calc(100% - var(--border-width)) var(--border-width),
+            calc(100% - var(--border-width)) calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)),
+            calc(100% - calc(var(--curve-size) + var(--border-width) * 0.5)) calc(100% - var(--border-width)),
+            var(--border-width) calc(100% - var(--border-width)));
+    transition: clip-path 500ms;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: #FFC700;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: rgba(27, 21, 0, 0.475)
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(65, 51, 3, 0.475);
+}
+
+.active {
+    background-color: #ffc700;
+    color: #1f1f1f
+}
+
+@font-face {
+    font-family: "Tokyo_2097";
+    src: url('./assets/font/Tokyo 2097.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.custom-font {
+    font-family: "Tokyo_2097", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #f7ef22;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    text-shadow: 2.5px 0px 0px #B45107, -2.5px 0px 0px #B45107, 2.5px -2.5px 0px #B45107, -2.5px -2.5px 0px #B45107, -2.5px 2.5px 0px #B45107, 2.5px 2.5px 0px #B45107;
+}
+
+.custom-font3 {
+    font-family: "Tokyo_2097", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #FFC700;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    text-shadow: 2.5px 0px 0px #B45107, -2.5px 0px 0px #B45107, 2.5px -2.5px 0px #B45107, -2.5px -2.5px 0px #B45107, -2.5px 2.5px 0px #B45107, 2.5px 2.5px 0px #B45107;
+}
+
+.custom-font1 {
+    font-family: "Tokyo_2097", sans-serif;
+    width: max-content;
+    color: #000;
+    background: #fff;
+    -webkit-text-stroke: 12px transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    max-width: 220px;
+    text-align: center;
+    transform: rotate(-7deg);
+}
+
+.custom-font2 {
+    font-family: "Tokyo_2097", sans-serif;
+    font-weight: 600;
+    color: #f7ef22;
+    text-transform: uppercase;
+}
+
+.card-font {
+    font-family: "Tokyo_2097", sans-serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+/* Custom Scrollbar Styles */
+.custom-scrollbar::-webkit-scrollbar {
+    width: 0px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+    background: #2a2a2a;
+    border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+    background: #ffd926;
+    border-radius: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: #ffd926aa;
+}
+
+.custom-font-banner {
+    font-family: "Tokyo_2097", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #ee0000;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    /* text-shadow: 2.5px 0px 0px #ee0000, -2.5px 0px 0px #ee0000, 2.5px -2.5px 0px #ee0000, -2.5px -2.5px 0px #ee0000, -2.5px 2.5px 0px #ee0000, 2.5px 2.5px 0px #ee0000; */
+}
+
+.custome-font-scam {
+    font-family: "Tokyo_2097", sans-serif;
+    font-weight: 600;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    text-shadow: 1px 0px 0px #000000, -1px 0px 0px #000000, 1px -1px 0px #000000, -1px -1px 0px #000000, -1px 1px 0px #000000, 1px 1px 0px #000000;
+}
+
+.custom-font-link {
+    font-family: "Tokyo_2097", sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    color: #ff0000;
+    text-transform: uppercase;
+    letter-spacing: 2.4px;
+    text-shadow: 1px 0px 0px #ff0000, -1px 0px 0px #ff0000, 1px -1px 0px #ff0000, -1px -1px 0px #ff0000, -1px 1px 0px #ff0000, 1px 1px 0px #ff0000;
+}

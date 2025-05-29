@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "스태이킹",
+        "about": "소개",
+        "how to buy": "구매 방법",
+        "tokenomics": "토크노믹스",
+        "faq": "자주 묻는 질문",
+        "whitepaper": "백서",
+        "buynow": "지금 구매하기"
+    },
+    "hero": {
+        "title1": "비트코인의 최고의",
+        "title2": "크립토 프리세일",
+        "description": "BTC Bull 토큰은 비트코인을 $1M 이상으로 밀어붙이는 멈출 수 없는 힘입니다! $BTCBULL을 구매하고 비트코인이 세계 1위 자산이 될 때 비트코인을 받으세요!",
+        "timingtitle": {
+            "first": "지금",
+            "second": "토큰",
+            "third": "프리세일 구매!"
+        },
+        "day": "일",
+        "hours": "시간",
+        "minute": "분",
+        "second": "초",
+        "raised": "모금된 USDT: $6,311,467.59 / $7,332,195",
+        "purchased": "구매한 $BTCBULL = 0",
+        "stakeable": "스태이킹 가능한 $BTCBULL = 0",
+        "buywithcard": "카드로 구매",
+        "buywithcrypto": "암호화폐로 구매",
+        "nowallet": "지갑이 없으신가요?",
+        "poweredby": "Powered by",
+        "featuredin": {
+            "first": "게재됨",
+            "second": ""
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "공식",
+            "second": "비트코인 밈 코인"
+        },
+        "description": "비트코인은 연평균 수익률 230%로 역사상 최고의 자산입니다 – 출시 이후 2억 퍼센트 이상 상승했습니다. 이제 BTC Bull이 $250K 및 그 이상을 향해 돌진하는 이 여정에 함께 탑승하세요!",
+        "buybutton": "지금 구매하기",
+        "component": {
+            "first": {
+                "title": "비트코인 에어드랍 받기!",
+                "description": "$BTCBULL 토큰을 보유하면 최고의 자산의 가격이 상승할 때 비트코인 에어드랍을 받을 수 있습니다! BTC가 $250,000에 도달하면, 현재 보유량과 커뮤니티 세일 구매 금액을 기준으로 한 대규모 $BTCBULL 에어드랍이 기다리고 있습니다."
+            },
+            "second": {
+                "title": "토큰 소각 이정표",
+                "description": "BTC Bull은 비트코인 가격이 오를수록 홀더에게 보상합니다. 비트코인이 $25K씩 상승할 때마다, $BTCBULL 토큰 공급의 일부를 소각하거나, 충성스러운 홀더에게 BTC를 에어드랍합니다. 우리는 소각하고, 상승하고, 반복합니다!"
+            },
+            "third": {
+                "title": "스태이킹으로 수익 창출",
+                "description": "BTC Bull 토큰은 모든 신봉자들에게 보상하기 위해 설계되었습니다. 이더리움 기반의 안전한 스마트 계약을 통해 높은 APY의 스태이킹이 가능하며, $BTCBULL 보상은 커뮤니티 세일 기간 동안 스태이커들에게 지급됩니다."
+            }
+        }
+    },
+    "roadmap": {
+        "title": "로드맵",
+        "description": "BTC Bull은 모든 신봉자들에게 영광과 보상을 가져옵니다. BTC 가격이 $1,000,000 이상으로 오르는 길에서 BTC Bull은 비트코인 가격 상승에 따라 토큰 공급을 소각하고, 강력한 홀더들에게 BTC를 에어드랍합니다! 또한, BTC가 $250,000에 도달하면 대규모 $BTCBULL 에어드랍이 예정되어 있습니다!",
+        "milestone": {
+            "title": "프로젝트 이정표",
+            "first": "$BTCBULL 프리세일!",
+            "second": "토큰 소각!",
+            "third": "BTC 에어드랍!",
+            "forth": "토큰 소각!",
+            "fifth": "BTC 에어드랍!",
+            "six": "토큰 소각!",
+            "seven": "$BTCBULL 에어드랍!"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "무료 비트코인 받기",
+            "second": "전체 토큰으로!"
+        },
+        "description": "BTC Bull 커뮤니티는 무료 비트코인을 받을 수 있는 매우 강력한 기회를 가졌습니다! $BTCBULL 토큰을 Best Wallet에 보관하기만 하면 직접 BTC 에어드랍을 받을 수 있습니다! 지금 Best Wallet을 다운로드하거나 기존 지갑을 가져오세요.",
+        "findoutbutton": "자세히 알아보기",
+        "why": "왜 Best Wallet인가요?",
+        "description1": "BTC Bull 커뮤니티에 BTC로 보상하기 위해, 우리는 고급 기능이 있는 지갑 파트너가 필요했습니다. Best Wallet은 멀티체인 암호화폐 지갑으로 커뮤니티 세일과 통합되어 Best Wallet 모바일 앱을 통해 모든 암호화폐 프리세일 구매자들에게 BTC를 에어드랍할 수 있습니다. 지금 다운로드하고 무료 비트코인을 받으세요!"
+    },
+    "presale": {
+        "title": {
+            "first": "구매 방법",
+            "second": "비트코인의 최고의 크립토 프리세일",
+            "step": {
+                "step1": {
+                    "first": "1단계:",
+                    "description1": "BTC Bull 및 비트코인 강세장을 활용하려면 MetaMask, Trust 또는",
+                    "walletLink": "Best Wallet",
+                    "description2": "같은 디파이 암호화폐 지갑이 필요합니다. 페이지 상단의 프리세일 위젯에 지갑을 연결하세요."
+                },
+                "step2": {
+                    "first": "2단계:",
+                    "description1": "ETH 또는 USDT가 필요합니다. 입금하거나",
+                    "walletLink": "Best Wallet",
+                    "description2": "에서 암호화폐를 직접 구매하여 $BTCBULL 구매를 위한 자금을 마련하세요. 가스 수수료를 지불할 수 있을 만큼의 ETH도 남겨두세요."
+                },
+                "step3": {
+                    "first": "3단계:",
+                    "description1": "스태이킹은 이더리움에서 가능하며, $BTCBULL 보유량을 늘릴 수 있습니다. 스태이킹을 원하신다면 위젯의 안내에 따라 진행하세요. APY는 동적으로 변경될 수 있습니다.",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "4단계:",
+                    "description1": "구매를 완료하면, 구매 위젯에 $BTCBULL 토큰 잔액이 표시됩니다. 이 토큰은 BTC Bull 프리세일이 매진되거나 기간이 종료되면 청구할 수 있습니다.",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "토크노믹스",
+        "bullfund": {
+            "bull": "불",
+            "fund": "펀드"
+        },
+        "milestoneburnfund": {
+            "milestone": "마일스톤 소각",
+            "burnfund": "펀드"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC 불",
+            "airdrop": "에어드롭"
+        },
+        "staking": {
+            "staking": "스테이킹",
+            "distribution": "분배"
+        },
+        "exchange": {
+            "exchange": "거래소",
+            "liquidify": "유동성 공급"
+        },
+        "marketing": {
+            "pr": "PR 및",
+            "marketing": "마케팅"
+        },
+        "totalsupply": "총 공급량",
+        "tokenaddress": "토큰 주소",
+        "copied": "클립보드에 복사됨"
+    },
+    "bullish": {
+        "title": {
+            "first": "강세장",
+            "second": "비트코인 뉴스"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "토큰",
+            "second": "자주 묻는 질문"
+        },
+        "faq1": {
+            "title": "BTC Bull 토큰이란?",
+            "description": "BTC Bull 토큰은 비트코인이 $250,000 이상으로 상승하는 것을 지지하는 밈 코인입니다. BTC Bull은 세계 최고의 투자 자산이 되기 위한 상승을 막으려는 그 어떤 힘도 두려워하지 않습니다. 역사적인 저항을 모두 뒤로하고 수백만의 새로운 지지자들과 함께 이 크립토 프리세일에 참여하여 인생 최고의 여정을 시작하세요!"
+        },
+        "faq2": {
+            "title": "$BTCBULL 크립토 프리세일을 왜 구매해야 하나요?",
+            "description": "BTC Bull은 다가오는 대형 비트코인 강세장을 위한 최고의 선택입니다. $BTCBULL은 강력한 커뮤니티를 가진 밈 코인으로, 우리 모두 안에 있는 황소의 힘을 일깨웁니다. $150K의 BTC도 FUD일 뿐이며, 당신은 충분히 강세장이 아닙니다. 우리는 BTC Bull 커뮤니티를 키우며, BTC와 함께 상승하고 세계 최고의 자산으로 보상을 받을 것입니다."
+        },
+        "faq3": {
+            "title": "정말 무료 비트코인 에어드롭을 받을 수 있나요?",
+            "description": "황소가 말을 더듬을까요? 네! Best Wallet에 $BTCBULL 토큰을 보유하고 있다면 비트코인이 $150,000 및 $200,000에 도달할 때 BTC 에어드롭을 받을 수 있습니다. 에어드롭은 Best Wallet의 BTC 주소로 전송되며, 보유 중인 $BTCBULL 수량에 따라 가중치가 적용됩니다."
+        },
+        "faq4": {
+            "title": "이건 무료 비트코인 파우셋인가요, 아니면 비트코인 에어드롭인가요?",
+            "description": "정확히는 아닙니다. 비트코인 파우셋은 일정 시간마다 소량의 BTC를 받을 수 있도록 해줍니다. BTC Bull은 $BTCBULL 토큰 보유자에게 무료 비트코인 에어드롭을 제공합니다. Best Wallet에 토큰을 보유하거나 구매에 사용한 지갑을 Best Wallet으로 가져오면 참여할 수 있습니다."
+        },
+        "faq5": {
+            "title": "BTC Bull의 소셜 미디어 및 지원은 어디인가요?",
+            "description": {
+                "text": "BTC Bull을 팔로우하세요:",
+                "twitter": {
+                    "text": "X (트위터)",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "및",
+                "telegram": {
+                    "text": "텔레그램",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "에서 비트코인 불 커뮤니티와 함께 BTC의 상승을 축하하고, 최신 소식과 공지를 받아보세요."
+            }
+        },
+        "faq6": {
+            "title": "$BTCBULL 스테이킹은 어떻게 작동하나요?",
+            "description": {
+                "text": "BTC Bull은 이더리움 기반으로 스마트 계약으로 보안이 유지되며, 스테이킹은",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": " 기술로 지원됩니다. 스테이킹 보상을 위해 $BTCBULL 토큰 일부가 배정되어 있으며, 스테이킹 계약에 토큰을 전송하면 가변 APY를 받을 수 있습니다. 보상은 커뮤니티 세일 종료 후 7일 후에 출금 가능합니다."
+            }
+        },
+        "faq7": {
+            "title": "$BTCBULL 토큰은 언제 받을 수 있나요?",
+            "description": {
+                "title": "커뮤니티 세일에서 $BTCBULL을 구매하면, 안전한",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": " 위젯을 통해 할당량이 확보됩니다. 공식 웹사이트에서 커뮤니티 세일 종료 후 토큰을 클레임할 수 있습니다. 만약",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": " 앱을 통해 구매했다면, 토큰 클레임, 잔고 확인, 실시간 가격, 즉시 DEX 거래 등 다양한 혜택을 누릴 수 있습니다."
+            }
+        }
+    },
+    "staking": {
+        "title": "BTCBULL 스테이킹으로 수동 수익 받기",
+        "description": "BTCBULL 보상은 ETH 블록당 399.54 BTCBULL의 속도로 분배됩니다. 보상은 토큰 클레임이 라이브된 후 7일 뒤 출금할 수 있습니다.",
+        "tokenstaked": {
+            "token": {
+                "first": "당신의 토큰",
+                "second": "스테이킹됨"
+            },
+            "available": {
+                "first": "스테이킹 가능한",
+                "second": "잔고"
+            },
+            "button": "구매 및 스테이킹"
+        },
+        "poor": {
+            "yourpoor": "당신의 비율 (%)",
+            "totalpool": "총 스테이킹 풀",
+            "button": "스테이킹 해제"
+        },
+        "estimate": {
+            "title": {
+                "first": "예상",
+                "second": "보상"
+            },
+            "list": {
+                "first": "비율은 변동됩니다",
+                "second": "월간 = 보상 % / 12",
+                "third": "일간 = 보상 % / 365"
+            }
+        },
+        "rewards": {
+            "title": "현재 보상",
+            "toptext": "ETH 블록당"
+        },
+        "totlarewards": {
+            "title": "총 보상",
+            "button": "보상 클레임"
+        },
+        "totalsupply": "총 공급량"
+    },
+    "footer": {
+        "terms": "서비스 약관",
+        "cookies": "쿠키",
+        "privacy": "개인정보 처리방침",
+        "description": "면책 조항: BTC Bull Token은 비트코인의 사회적·시장적 가치에 연결된 투기성 밈 코인입니다. 암호화폐 시장은 전액 손실 위험이 있습니다. 이 웹사이트의 내용은 재정 조언이 아닙니다. DYOR 하시고 $1M까지 HODL하세요!"
+    },
+    "modal": {
+        "info": {
+            "first": "구매한 잔액은 연결된 지갑으로 구매한 모든 토큰 수량입니다. 스테이킹된 토큰과 미스테이킹 토큰 모두 포함됩니다.",
+            "second": "스테이킹 가능한 잔액은 프리세일 기간 동안 스마트 계약에 스테이킹할 수 있는 토큰 수량입니다.",
+            "third": "BTCBULL 스테이킹 보상은 ETH 블록당 399.54 BTCBULL 비율로 분배됩니다. 보상 풀의 비율에 따라 수령량이 결정됩니다.",
+            "fourth": "클레임은 아직 활성화되지 않았습니다."
+        },
+        "walletmodal": {
+            "title": "지갑 연결",
+            "description": {
+                "start": "이미 지갑이 있다면 아래에서 원하는 지갑을 선택하세요. 지갑이 없다면 ",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "을 다운로드하여 시작하세요."
+            },
+            "button": "지갑이 없어요"
+        },
+        "needwallet": {
+            "title": "지갑이 필요하신가요?",
+            "description": {
+                "first": "Best Wallet은 초보자도 사용하기 쉬운 앱으로,",
+                "second": "우리 토큰 구매를 쉽게 만들어줍니다.",
+                "third": "아래 단계를 따라 시작해 보세요."
+            },
+            "button": "Best Wallet 다운로드",
+            "step1": {
+                "first": "QR 코드를 스캔하여",
+                "second": "Best Wallet 앱 다운로드"
+            },
+            "step2": "계정 만들기",
+            "step3": "카드 또는 암호화폐로 앱 내 구매"
+        },
+        "widthdraw": {
+            "title": "스테이킹 해제",
+            "description": "당신의 스테이킹된 토큰",
+            "cancel": "취소",
+            "widthdraw": "출금"
+        }
+    },
+    "trust": {
+        "title": "2021년부터 수백만 명의 신뢰를 받음",
+        "rated": "평가자",
+        "tokenscoretitle": "Bull 토큰 신뢰 점수",
+        "liquidity": "유동성",
+        "scale": "규모",
+        "cybersecurity": "사이버 보안",
+        "apicoverage": "API 범위",
+        "team": "팀",
+        "incident": "사건",
+        "ror": "수익률"
+    },
+    "trustnet": {
+        "title": {
+            "first": "트러스트넷",
+            "second": "점수"
+        },
+        "description": "TrustNet 점수는 감사를 통한 결과, 보안, KYC 인증 및 소셜 미디어 존재를 기반으로 암호화 프로젝트를 평가합니다. 이 점수는 프로젝트의 신뢰성을 빠르고 투명하게 보여주며, Web3 공간에서 사용자들이 정보에 기반한 결정을 내리는 데 도움을 줍니다.",
+        "lowlebel": "낮음",
+        "highlebel": "우수"
+    }
+}

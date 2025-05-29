@@ -1,0 +1,323 @@
+{
+    "navbar": {
+        "stack": "ステーキング",
+        "about": "概要",
+        "how to buy": "購入方法",
+        "tokenomics": "トークノミクス",
+        "faq": "よくある質問",
+        "whitepaper": "ホワイトペーパー",
+        "buynow": "今すぐ購入"
+    },
+    "hero": {
+        "title1": "ビットコイン最高の",
+        "title2": "暗号プレセール",
+        "description": "BTC Bull Tokenは、ビットコインを100万ドル以上に押し上げる止められない力です！$BTCBULLを購入し、ビットコインが世界No.1の資産になるにつれてBTCを獲得しましょう！",
+        "timingtitle": {
+            "first": "今すぐ",
+            "second": "トークンを",
+            "third": "プレセールで購入！"
+        },
+        "day": "日",
+        "hours": "時間",
+        "minute": "分",
+        "second": "秒",
+        "raised": "調達済み USDT: $6,311,467.59 / $7,332,195",
+        "purchased": "購入済みの $BTCBULL = 0",
+        "stakeable": "ステーキング可能な $BTCBULL = 0",
+        "buywithcard": "カードで購入",
+        "buywithcrypto": "暗号通貨で購入",
+        "nowallet": "ウォレットをお持ちでないですか？",
+        "poweredby": "提供：",
+        "featuredin": {
+            "first": "掲載",
+            "second": "メディア"
+        }
+    },
+    "about": {
+        "abouttitle": {
+            "first": "公式の",
+            "second": "ビットコインミームコイン"
+        },
+        "description": "ビットコインは史上最高のパフォーマンスを誇る資産で、年間平均リターンは230%です。さあ、BTCが$250Kを突破しさらにその先へ進む旅に乗りましょう！",
+        "buybutton": "今すぐ購入",
+        "component": {
+            "first": {
+                "title": "ビットコインのエアドロップを獲得！",
+                "description": "$BTCBULLトークンを保有することで、資産価格上昇に伴いBTCのエアドロップを受け取れます！BTCが$250,000に達した際には、保有量とプレセール購入額に応じた大規模エアドロップも行われます。"
+            },
+            "second": {
+                "title": "トークンバーンのマイルストーン",
+                "description": "BTC Bullは、ビットコイン価格が上昇するたびにホルダーに報酬を提供します。BTCが$25K上がるたびに、$BTCBULLトークンの一部をバーンするか、忠実な保有者にBTCをエアドロップします。バーンし、上昇し、また繰り返します！"
+            },
+            "third": {
+                "title": "ステーキングで稼ぐ",
+                "description": "$BTCBULLトークンは、信じる者に報いるために設計されています。イーサリアム上に構築され、安全なスマートコントラクトで高いAPYステーキングが可能です。プレセール期間中はステーカーに報酬が配布されます。"
+            }
+        }
+    },
+    "roadmap": {
+        "title": "ロードマップ",
+        "description": "BTC Bullはすべての信者に栄光と報酬をもたらします。BTCが100万ドルを超える道のりで、価格が上がるたびにトークン供給をバーンし、最も強いホルダーにBTCをエアドロップします！さらに、BTCが250,000ドルに達した際には巨大な$BTCBULLエアドロップも！",
+        "milestone": {
+            "title": "プロジェクトのマイルストーン",
+            "first": "$BTCBULL プレセール！",
+            "second": "トークンバーン！",
+            "third": "BTC エアドロップ！",
+            "forth": "トークンバーン！",
+            "fifth": "BTC エアドロップ！",
+            "six": "トークンバーン！",
+            "seven": "$BTCBULL エアドロップ！"
+        }
+    },
+    "bestwallet": {
+        "title": {
+            "first": "無料でビットコインを獲得",
+            "second": "フルトークンで！"
+        },
+        "description": "BTC Bullコミュニティには、無料でBTCを得る絶好のチャンスがあります！$BTCBULLトークンをBest Walletに保有するだけで、直接BTCエアドロップを受け取れます！今すぐBest Walletをダウンロードするか、既存のウォレットをインポートしましょう。",
+        "findoutbutton": "詳しく見る",
+        "why": "なぜ？",
+        "description1": "BTC BullコミュニティにBTCで報酬を与えるために、私たちは高度な機能を持つウォレットパートナーを必要としていました。Best Walletはマルチチェーン対応の暗号ウォレットで、プレセールと統合されており、アプリを通じてすべての購入者にBTCをエアドロップできます。"
+    },
+    "presale": {
+        "title": {
+            "first": "購入方法",
+            "second": "BTC最高の暗号プレセール",
+            "step": {
+                "step1": {
+                    "first": "ステップ 1:",
+                    "description1": "BTC Bullとビットコインのブルランに参加するには、MetaMask、Trust、または",
+                    "walletLink": "Best Wallet",
+                    "description2": "などのDeFiウォレットが必要です。ページ上部のプレセールウィジェットに接続してください。"
+                },
+                "step2": {
+                    "first": "ステップ 2:",
+                    "description1": "ETHまたはUSDTを準備してください。入金するか、",
+                    "walletLink": "Best Wallet",
+                    "description2": "で暗号通貨を直接購入して$BTCBULLを購入しましょう。ガス代として十分なETHが残っていることを確認してください。"
+                },
+                "step3": {
+                    "first": "ステップ 3:",
+                    "description1": "Ethereum上でのステーキングにより、$BTCBULL保有量を増やせます。ステーキングを選ぶ場合は、ウィジェットの指示に従ってください。APYは変動する可能性があります。",
+                    "walletLink": "",
+                    "description2": ""
+                },
+                "step4": {
+                    "first": "ステップ 4:",
+                    "description1": "購入後、$BTCBULLのトークン残高が購入ウィジェットに表示されます。プレセールが終了またはタイムアウトした時点で、これらのトークンを請求できます。",
+                    "walletLink": "",
+                    "description2": ""
+                }
+            }
+        }
+    },
+    "tokenomics": {
+        "title": "トークノミクス",
+        "bullfund": {
+            "bull": "ブル",
+            "fund": "ファンド"
+        },
+        "milestoneburnfund": {
+            "milestone": "マイルストーンバーン",
+            "burnfund": "ファンド"
+        },
+        "btcbullairdrop": {
+            "btcbull": "$BTC Bull",
+            "airdrop": "エアドロップ"
+        },
+        "staking": {
+            "staking": "ステーキング",
+            "distribution": "分配"
+        },
+        "exchange": {
+            "exchange": "取引所",
+            "liquidify": "流動性供給"
+        },
+        "marketing": {
+            "pr": "PRと",
+            "marketing": "マーケティング"
+        },
+        "totalsupply": "総供給量",
+        "tokenaddress": "トークンアドレス",
+        "copied": "クリップボードにコピーされました"
+    },
+    "bullish": {
+        "title": {
+            "first": "強気な",
+            "second": "ビットコインニュース"
+        }
+    },
+    "faq": {
+        "title": {
+            "first": "トークン",
+            "second": "よくある質問"
+        },
+        "faq1": {
+            "title": "BTC Bullトークンとは？",
+            "description": "BTC Bullトークンは、ビットコインの25万ドル突破を目指すミームコインです。BTCブルは、世界最高の投資資産になることを阻むいかなる力にも怯みません。この歴史的な暗号資産プレセールに参加して、すべての過去の抵抗を乗り越え、何百万人もの新しい支持者を集め、ゴールドを超えて世界No.1資産を目指しましょう！"
+        },
+        "faq2": {
+            "title": "$BTCBULLの暗号プレセールを購入すべき理由は？",
+            "description": "BTC Bullは、次に来る大規模なビットコイン（BTC）強気相場に乗るための究極の手段であり、2025年に最も注目すべき暗号プレセールです。$BTCBULLは、情熱的なコミュニティが支えるミームコインです。15万ドルのBTCですらFUDと言えるほど、真の強気こそ我々の姿勢です。ここでコミュニティを育て、BTCと共に上昇し、最終的に世界最高の資産クラスの恩恵を受けましょう。"
+        },
+        "faq3": {
+            "title": "本当に無料のビットコインエアドロップを受け取れますか？",
+            "description": "ブルが躊躇しますか？しません！Best Walletに$BTCBULLトークンを保有していれば、ビットコイン価格が15万ドルおよび20万ドルに到達した際にBTCエアドロップを受け取れます。BTCはBest Wallet内のあなたのBTCアドレスへ送付され、その金額はCommunity Saleで購入した$BTCBULLトークンの数量に応じて決まります。"
+        },
+        "faq4": {
+            "title": "これは無料のビットコインファウセットまたはエアドロップですか？",
+            "description": "厳密には異なります。無料ファウセットは一定間隔でBTCを取得できますが、BTC Bullは$BTCBULLトークン保有者に対し、無料のビットコインエアドロップを提供します。トークンをBest Walletに保有、または購入に使用したウォレットをインポートするだけで、エアドロップ対象になります。"
+        },
+        "faq5": {
+            "title": "BTC BullのSNSとサポートは？",
+            "description": {
+                "text": "BTC Bullの最新情報をチェックするには、",
+                "twitter": {
+                    "text": "X（旧Twitter）",
+                    "link": "https://x.com/BTCBULL_TOKEN"
+                },
+                "and": "および",
+                "telegram": {
+                    "text": "Telegram",
+                    "link": "https://t.me/BTC_Bull_Token"
+                },
+                "end": "をフォローして、ビットコインブル仲間とつながり、プロジェクトの最新ニュースや発表を受け取りましょう。"
+            }
+        },
+        "faq6": {
+            "title": "$BTCBULLのステーキングはどう機能しますか？",
+            "description": {
+                "text": "BTC Bullはイーサリアム上で構築され、スマートコントラクトによって保護されています。ステーキングは",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "end": "技術で提供されます。$BTCBULLの一部はステーキング報酬として割り当てられています。トークンをステーキングコントラクトに送信することで、変動するAPYを得られ、Community Sale終了までロックされます。報酬請求が可能になってから7日後にステーキング解除できます。"
+            }
+        },
+        "faq7": {
+            "title": "$BTCBULLトークンはいつ受け取れますか？",
+            "description": {
+                "title": "Community Saleで$BTCBULLを購入すると、安全な",
+                "web3link": {
+                    "text": "Web3Toolkit",
+                    "link": "https://web3toolkit.com/"
+                },
+                "center": "ウィジェットで割り当てが確保されます。セール終了後、公式ウェブサイトからトークンを請求できます。また、",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/?_gl=1%2Ambyur0%2A_gcl_au%2AOTY0NTY3MjM4LjE3NDgxNjEyNDI."
+                },
+                "end": "モバイルアプリを使用すると、トークンの請求、残高確認、リアルタイム価格、DEX取引への即時アクセスなど、統合された利便性を享受できます。"
+            }
+        }
+    },
+    "staking": {
+        "title": "$BTCBULLをステーキングして報酬を得よう",
+        "description": "BTCBULLトークン報酬は、1ETHブロックあたり399.54 BTCBULLのレートで配布されます。報酬はトークン請求が有効になってから7日後に引き出し可能です。",
+        "tokenstaked": {
+            "token": {
+                "first": "ステーキング中の",
+                "second": "あなたのトークン"
+            },
+            "available": {
+                "first": "ステーキング可能な",
+                "second": "トークン"
+            },
+            "button": "購入してステーキング"
+        },
+        "poor": {
+            "yourpoor": "あなたのシェア（％）",
+            "totalpool": "ステーキングプール総額",
+            "button": "ステーキング解除"
+        },
+        "estimate": {
+            "title": {
+                "first": "報酬",
+                "second": "の見積もり"
+            },
+            "list": {
+                "first": "レートは変動します",
+                "second": "月間 = 報酬％ ÷ 12",
+                "third": "日間 = 報酬％ ÷ 365"
+            }
+        },
+        "rewards": {
+            "title": "現在の報酬",
+            "toptext": "1ETHブロックあたり"
+        },
+        "totlarewards": {
+            "title": "累計報酬",
+            "button": "報酬を請求"
+        },
+        "totalsupply": "総供給量"
+    },
+    "footer": {
+        "terms": "利用規約",
+        "cookies": "クッキーポリシー",
+        "privacy": "プライバシーポリシー",
+        "description": "免責事項：BTC Bullトークンは、ビットコインの社会的・市場的価値に連動した投機的ミームコインです。暗号資産市場では、元本のすべてを失うリスクがあります。当ウェブサイトの内容は投資助言ではありません。必ずご自身で調査（DYOR）を行い、$1Mを目指してHODLしてください！"
+    },
+    "modal": {
+        "info": {
+            "first": "購入済み残高は、接続されたウォレットを通じて購入したすべてのトークン（ステーキング済みおよび未ステーキング）を含みます。",
+            "second": "ステーキング可能残高は、現在ステーキング可能なトークン数を示します。",
+            "third": "BTCBULLのステーキング報酬は、1ETHブロックあたり399.54 BTCBULLの割合で分配されます。報酬の割合はプール内でのあなたの割合によって決まります。",
+            "fourth": "請求はまだ有効になっていません"
+        },
+        "walletmodal": {
+            "title": "ウォレットを接続",
+            "description": {
+                "start": "すでにウォレットをお持ちの場合は、下のオプションから接続してください。ウォレットがない場合は、",
+                "bestwallet": {
+                    "text": "Best Wallet",
+                    "link": "https://bestwallet.com/en/"
+                },
+                "end": "をダウンロードして始めましょう。"
+            },
+            "button": "ウォレットを持っていません"
+        },
+        "needwallet": {
+            "title": "ウォレットが必要ですか？",
+            "description": {
+                "first": "Best Walletは初心者にやさしいアプリで、",
+                "second": "簡単にトークンを購入できます。",
+                "third": "以下の手順に従って始めましょう。"
+            },
+            "button": "Best Walletをダウンロード",
+            "step1": {
+                "first": "QRコードをスキャンして",
+                "second": "Best Walletアプリをダウンロード"
+            },
+            "step2": "アカウントを作成",
+            "step3": "アプリ内でカードまたは暗号で購入"
+        },
+        "widthdraw": {
+            "title": "トークンのアンステーキング",
+            "description": "ステーキング中のトークン",
+            "cancel": "キャンセル",
+            "widthdraw": "アンステーク"
+        }
+    },
+    "trust": {
+        "title": "2021年から数百万人に信頼されています",
+        "rated": "評価元",
+        "tokenscoretitle": "Bullトークン信頼スコア",
+        "liquidity": "流動性",
+        "scale": "スケール",
+        "cybersecurity": "サイバーセキュリティ",
+        "apicoverage": "APIカバレッジ",
+        "team": "チーム",
+        "incident": "インシデント",
+        "ror": "収益率"
+    },
+    "trustnet": {
+        "title": {
+            "first": "トラストネット",
+            "second": "スコア"
+        },
+        "description": "TrustNetスコアは、監査結果、セキュリティ、KYC認証、ソーシャルメディアでの存在感に基づいて暗号プロジェクトを評価します。このスコアはプロジェクトの信頼性を迅速かつ透明に可視化し、Web3領域での意思決定をサポートします。",
+        "lowlebel": "低い",
+        "highlebel": "優秀"
+    }
+}
